@@ -1,2 +1,3 @@
 name: A Happy Blog by Kamala Pillai
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
