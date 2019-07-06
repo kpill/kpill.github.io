@@ -6,7 +6,7 @@ layout: feed
 
 	<title>Kamala Pillai's Blog</title>
 	<link href="http://kpill.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://hpill.github.io/blog"/>
+	<link href="http://kpill.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://kpill.github.io/blog</id>
 	<author>
