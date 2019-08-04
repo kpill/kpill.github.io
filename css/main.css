@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: hsl(pink, 100%, 75%);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -40,8 +41,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-div {
-    background-color: pink;
 }
