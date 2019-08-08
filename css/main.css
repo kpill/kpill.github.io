@@ -23,7 +23,8 @@ a {
     text-decoration: none;
     color: #999;
     display: block;
-    padding: 3px 16px;
+    padding: 3px;
+    width: 100%
 }
 a:hover {
     color: blue;
