@@ -1,6 +1,6 @@
 body {
     margin: 0 auto;
-    width: 100%;
+    width: 70%;
     background-color: PeachPuff;
 }
 footer ul {
@@ -13,6 +13,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    width: 100%;
     overflow: hidden;
     background-color: white;
 }
@@ -22,6 +23,8 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     color: #999;
+    display: block;
+    padding: 14px 16px;
 }
 a:hover {
     color: blue;
