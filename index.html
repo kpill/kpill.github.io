@@ -3,9 +3,8 @@ layout: default
 title: Kamala Pillai's Blog
 ---
 <ul class="posts">
-
-	  {% for post in site.posts %}
-      <li><a href="{{ post.url }}" class="category-button">{{ post.title }}</a></li>
-	  {% endfor %}
+	{% for post in site.posts %}
+		<li><a href="{{ post.url }}" class="category-button">{{ post.title }}</a></li>
+	{% endfor %}
 </ul>
 
