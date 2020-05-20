@@ -3,7 +3,10 @@ header {
 	color: Black;
 	text-align: center;
 	height: 100px;
-	top-margin: 0px;
+	width: 25%
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
 }
 body {
     margin: 0 auto;
