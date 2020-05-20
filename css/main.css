@@ -2,6 +2,7 @@ header {
 	background-color: AntiqueWhite;
 	color: Black;
 	text-align: center;
+	height: 100px;
 }
 body {
     margin: 0 auto;
