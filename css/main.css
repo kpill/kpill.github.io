@@ -36,7 +36,7 @@ nav ul {
 nav li, footer li {
     float: left;
 }
-a {
+a.nav {
     text-decoration: none;
     text-align: left;
     display: block;
@@ -44,7 +44,7 @@ a {
 	color: Black;
 }
 
-a:hover {
+a.nav:hover {
     border-style: solid none;
 }
 h1 {
