@@ -6,6 +6,10 @@ header {
 	vertical-align: middle;
 }
 
+a.home {
+	color: Black;
+}
+
 a.home:hover {
 	color: Black;	
 }
@@ -34,13 +38,14 @@ nav li, footer li {
 }
 a {
     text-decoration: none;
-    color: #999;
     text-align: left;
     display: block;
     padding: 10px 40px;
+	color: Black;
 }
+
 a:hover {
-    color: blue;
+    border-style: solid none;
 }
 h1 {
     font-size: 3em;
