@@ -6,7 +6,7 @@ header {
 	vertical-align: middle;
 }
 
-a.home {
+a.home:hover {
 	color: Black;	
 }
 
