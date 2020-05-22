@@ -5,6 +5,11 @@ header {
 	height: 100px;
 	vertical-align: middle;
 }
+
+a.home {
+	color: Black;	
+}
+
 body {
     margin: 0 auto;
     background-color: AliceBlue;
