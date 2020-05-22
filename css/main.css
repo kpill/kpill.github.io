@@ -46,7 +46,7 @@ a.nav {
 }
 
 a.nav:hover {
-    border-style: solid none;
+    background-color: Lavender;
 }
 h1 {
     font-size: 3em;
