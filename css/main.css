@@ -62,6 +62,15 @@ footer {
     font-size: .8em;
 }
 
+a.footer {
+	text-decoration: none;
+	color: #999;
+}
+
+a.footer:hover {
+	color: Blue;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
