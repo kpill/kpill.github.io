@@ -80,16 +80,4 @@ ul.posts li {
     list-style: none;
 }
 
-.category-button {
-	background-color: #DA70D6;
-	color: white;
-	border: none;
-	padding: 100px 50px;
-	text-align: center;
-	font-size: 20px;
-	cursor: pointer;
-}
-
-.category-button:hover {
-	padding: 90px 45px;
-}
+	
