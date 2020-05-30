@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Kamala Pillai Launches Site"
+subtitle: "My first post"
+tag: "personal"
 date: 2018-11-25
 ---
 
