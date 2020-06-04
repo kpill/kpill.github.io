@@ -80,4 +80,9 @@ ul.posts li {
     list-style: none;
 }
 
+.post-button {
+	background-color: white;
+	border: black;
+	color: Black;
+}
 	
