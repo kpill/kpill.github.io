@@ -1,5 +1,5 @@
 header {
-	background-color: AntiqueWhite;
+	background-color: White;
 	color: Black;
 	text-align: center;
 	vertical-align: middle;
@@ -17,7 +17,7 @@ a.home:hover {
 
 body {
     margin: 0 auto;
-    background-color: AliceBlue;
+    background-color: White;
 }
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -31,7 +31,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: white;
+    background-color: LemonChiffon;
     width: 100%;
 }
 nav li, footer li {
@@ -46,7 +46,7 @@ a.nav {
 }
 
 a.nav:hover {
-    background-color: Lavender;
+    background-color: LightYellow;
 }
 h1 {
     font-size: 3em;
