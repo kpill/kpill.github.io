@@ -3,7 +3,7 @@ layout: post
 title: "Kamala Pillai Launches Site"
 subtitle: "My first post"
 tag: "personal"
-picture: <img src="github_logo.jpg" alt="Github Logo Try Again"/>
+picture: <img src="/github_logo.jpg" alt="This Time Tho"/>
 date: 2018-11-25
 ---
 
