@@ -33,6 +33,7 @@ nav ul {
     overflow: hidden;
     background-color: LemonChiffon;
     width: 100%;
+    text-align: center;
 }
 nav li, footer li {
     float: left;
