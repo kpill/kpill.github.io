@@ -80,9 +80,14 @@ ul.posts li {
     list-style: none;
 }
 
-.post-button {
+a:link, a:visited {
 	background-color: white;
-	border: pink;
-	color: Black;
+	color: black;
+	height: 100px;
+	width: 100%;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
 }
 	
