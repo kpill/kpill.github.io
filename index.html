@@ -4,7 +4,7 @@ title: Kamala Pillai's Blog
 ---
 <ul class="posts">
 	{% for post in site.posts %}
-		<li><a href="{{ post.url }}" class="post-button">{{ post.title }}</a></li>
+		<li><button onclick="{{ post.url }}" class="button post-button">{{ post.title }}</button></li>
 	{% endfor %}
 </ul>
 
