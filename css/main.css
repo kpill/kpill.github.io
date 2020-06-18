@@ -80,14 +80,14 @@ ul.posts li {
     list-style: none;
 }
 
-a1:link, a:visited {
+a.posts:link, a.posts:visited {
 	background-color: white;
 	color: black;
 	height: 100px;
 	width: 100%;
 }
 
-a1:hover, a:active {
+a.posts:hover, a.posts:active {
 	text-decoration: underline;
 }
 	
