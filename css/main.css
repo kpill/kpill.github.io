@@ -80,11 +80,13 @@ ul.posts li {
     list-style: none;
 }
 
-a.posts:link, a.posts:visited {
+a.posts {
 	background-color: white;
 	color: black;
 	height: 100px;
 	width: 100%;
+	text-decoration: none;
+	border: 2px solid black;
 }
 
 a.posts:hover, a.posts:active {
