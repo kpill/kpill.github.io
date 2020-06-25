@@ -82,7 +82,9 @@ ul.posts li {
 
 a.posts {
 	background-color: white;
-	color: red;
+	color: black;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	height: 100px;
 	width: 100%;
 	text-decoration: none;
