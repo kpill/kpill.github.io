@@ -83,12 +83,9 @@ ul.posts li {
 a.posts {
 	background-color: white;
 	color: black;
-	padding-top: 50px;
-	padding-bottom: 50px;
 	height: 100px;
 	width: 100%;
 	text-decoration: none;
-	border: 2px solid black;
 }
 
 a.posts:hover, a.posts:active {
