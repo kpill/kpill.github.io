@@ -92,3 +92,12 @@ a.posts:hover, a.posts:active {
 	text-decoration: underline;
 }
 	
+.grid_container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding: 10px;
+}
+
+.grid_item {
+	padding: 20px;
+}
