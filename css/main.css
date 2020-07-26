@@ -99,5 +99,7 @@ a.posts:hover, a.posts:active {
 }
 
 .grid_item {
-	padding: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 35px;
 }
