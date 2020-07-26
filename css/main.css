@@ -95,7 +95,8 @@ a.posts:hover, a.posts:active {
 .grid_container {
 	display: grid;
 	grid-template-columns: auto auto auto;
-	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .grid_item {
