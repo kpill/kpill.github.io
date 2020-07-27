@@ -109,6 +109,11 @@ a.posts:hover, a.posts:active {
 	padding-bottom: 100px;
 }
 
+img.link {
+	height: 20%;
+	width: 20%;
+}
+
 img.link:hover {
 	opacity: 0.75;
 }
