@@ -1,5 +1,5 @@
 header {
-	background_image: url("/images/grad_photo.jpg");
+	background_image: url("https://github.com/kpill/kpill.github.io/images/grad_photo.JPG");
 	color: Black;
 	text-align: center;
 	vertical-align: middle;
@@ -32,7 +32,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: plum;
+    background-color: gold;
     width: 100%;
 }
 
