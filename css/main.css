@@ -109,6 +109,6 @@ a.posts:hover, a.posts:active {
 	padding-bottom: 100px;
 }
 
-img:hover {
+img.link:hover {
 	opacity: 0.75;
 }
