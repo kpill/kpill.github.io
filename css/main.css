@@ -14,6 +14,9 @@ a.home:hover {
 	color: Black;	
 }
 
+welcome {
+	background_image: url("/images/grad_photo.jpg");
+
 body {
     margin: auto;
     background-color: White;
