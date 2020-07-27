@@ -1,5 +1,5 @@
 header {
-	background-color: White;
+	background_image: url("/images/grad_photo.jpg");
 	color: Black;
 	text-align: center;
 	vertical-align: middle;
@@ -53,7 +53,6 @@ a.nav:hover {
 }
 
 h1 {
-	background_image: url("/images/grad_photo.jpg");
     font-family: Georgia, serif;
 }
 
