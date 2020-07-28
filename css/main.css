@@ -8,7 +8,6 @@ header {
 	background-image: url("/images/grad_photo.JPG");
 	text-align: center;
 	vertical-align: middle;
-	padding-top: 100px;
 	background-size: 100% auto;
 }
 
@@ -39,7 +38,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: sandyBrown;
+    background-color: violet;
     width: 100%;
 }
 
@@ -67,6 +66,7 @@ h1.welcome {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	color: white;
 	font-weight: bold;
+	padding-top: 100px;
 }
 
 p {
