@@ -42,7 +42,7 @@ nav ul {
 	transform: translate(-50%, 50%);
     list-style-type: none;
     overflow: hidden;
-    background-color: violet;
+    background-color: red;
     width: 100vw;
 }
 
@@ -71,6 +71,7 @@ h1.welcome {
 	color: white;
 	font-weight: bold;
 	padding-top: 100px;
+	padding-bottom: 400px;
 }
 
 p {
