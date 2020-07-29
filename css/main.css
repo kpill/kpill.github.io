@@ -39,7 +39,7 @@ nav ul {
 	margin: 0;
     list-style-type: none;
     overflow: hidden;
-    background-color: chocolate;
+    background-color: white;
     width: 100vw;
 }
 
@@ -113,7 +113,7 @@ a.posts:hover, a.posts:active {
 	
 .grid_container {
 	display: grid;
-	grid-auto-columns: 300px;
+	grid-auto-columns: fit-content(300px);
 }
 
 /* .grid_item {
@@ -123,9 +123,9 @@ a.posts:hover, a.posts:active {
 	padding-bottom: 15px; */
 }
 
-img.link {
+/*img.link {
 	width: 300px;
-	height: 200px;
+	height: 200px; */
 }
 
 img.link:hover {
