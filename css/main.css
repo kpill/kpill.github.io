@@ -39,7 +39,7 @@ nav ul {
 	margin: 0;
     list-style-type: none;
     overflow: hidden;
-    background-color: red;
+    background-color: pink;
     width: 100vw;
 }
 
@@ -68,7 +68,7 @@ h1.welcome {
 	color: white;
 	font-weight: bold;
 	padding-top: 100px;
-	padding-bottom: 400px;
+	padding-bottom: 600px;
 }
 
 p {
