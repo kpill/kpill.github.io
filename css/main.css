@@ -113,8 +113,7 @@ a.posts:hover, a.posts:active {
 	
 .grid_container {
 	display: grid;
-	grid-template-columns: auto auto auto auto;
-	grid-column-gap: 4vw;
+	grid-auto-columns: 300px;
 }
 
 /* .grid_item {
@@ -125,7 +124,7 @@ a.posts:hover, a.posts:active {
 }
 
 img.link {
-	width: 20vw;
+	width: 300px;
 	height: auto;
 }
 
