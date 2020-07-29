@@ -35,10 +35,8 @@ footer ul {
 
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-	float: none;
-	position: absolute;
-	left: 50%;
-	transform: translate(-50%, 50%);
+	padding: 0;
+	margin: 0;
     list-style-type: none;
     overflow: hidden;
     background-color: red;
