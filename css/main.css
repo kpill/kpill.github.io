@@ -67,8 +67,8 @@ h1.welcome {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	color: white;
 	font-weight: bold;
-	padding-top: 100px;
-	padding-bottom: 600px;
+	padding-top: 10vw;
+	padding-bottom: 40vw;
 }
 
 p {
