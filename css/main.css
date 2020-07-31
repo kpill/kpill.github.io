@@ -10,6 +10,7 @@ header {
 	text-align: center;
 	vertical-align: middle;
 	background-size: 100vw auto;
+	border-bottom: 5px solid silver;
 }
 
 a.home {
