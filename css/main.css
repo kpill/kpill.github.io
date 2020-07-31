@@ -24,7 +24,7 @@ a.home:hover {
 
 body {
     margin: auto;
-    background-color: paleGreen;
+    background-color: white;
 }
 
 footer ul {
@@ -34,13 +34,13 @@ footer ul {
     font-weight: bold;
 }
 
-nav {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-	padding: 0;
-	margin: 0;
+    padding: 0;
+    margin: 0;
     list-style-type: none;
     overflow: hidden;
-    background-color: peru;
+    background-color: lightGreen;
     width: 100vw;
 }
 
