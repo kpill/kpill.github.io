@@ -10,7 +10,6 @@ header {
 	text-align: center;
 	vertical-align: middle;
 	background-size: 100vw auto;
-	border-bottom: 5px solid silver;
 }
 
 a.home {
@@ -40,7 +39,7 @@ nav ul {
     margin: 0;
     list-style-type: none;
     overflow: hidden;
-    background-color: lightGreen;
+    background-color: darkSeaGreen;
     width: 100vw;
 }
 
@@ -60,12 +59,8 @@ a.nav:hover {
     background-color: LightYellow;
 }
 
-.topnav-centered a {
-  float: none;
-  position: absolute;
-  top: 50%;
+.topnav-centered {
   left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 h1 {
@@ -78,6 +73,7 @@ h1.welcome {
 	font-weight: bold;
 	padding-top: 15vw;
 	padding-bottom: 40vw;
+	border-bottom: 5px solid silver;
 }
 
 p {
