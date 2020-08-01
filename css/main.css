@@ -1,7 +1,6 @@
 header {
+	position: relative;
 	color: Black;
-	display: inline-block;
-	text-align: center;
 }
 
 .menu {
