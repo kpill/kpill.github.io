@@ -5,6 +5,17 @@ header {
 	text-align: center;
 }
 
+.menu-bar {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+.menu {
+	display: inline-block;
+}
+
 a.home {
 	display: inline-block;
 	color: Black;
