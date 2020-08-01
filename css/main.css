@@ -4,27 +4,16 @@ header {
 }
 
 a.home {
+	display: inline-block;
 	color: Black;
 	text-decoration: none;
+	padding-left: 10vw;
+	padding-right: 60vw;
 }
 
 a.home:hover, a.home:active {
 	color: Black;
 	text-decoration: none;
-}
-
-.hometest {
-	display: inline-block;
-}
-
-.navtest {
-	display:inline-block;
-	text-align: center;
-}
-
-.logotest {
-	display: inline-block;
-	text-align: right;
 }
 
 .welcome {
