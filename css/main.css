@@ -5,6 +5,7 @@ header {
 
 a.home {
 	color: Black;
+	text-decoration: none;
 }
 
 a.home:hover, a.home:active {
