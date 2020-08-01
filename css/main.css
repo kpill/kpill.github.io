@@ -8,6 +8,8 @@ a.home {
 	display: inline-block;
 	color: Black;
 	text-decoration: none;
+	padding-left: 15vw;
+	padding-right: 15vw;
 }
 
 a.home:hover, a.home:active {
