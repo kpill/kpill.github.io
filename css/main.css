@@ -5,7 +5,6 @@ header {
 }
 
 .menu {
-	display: inline;
 	float: left;
 	vertical-align: middle;
 	width: 10%;
@@ -24,19 +23,18 @@ a.home:hover, a.home:active {
 }
 
 .social-icons {
-	display: inline;
 	float: right;
 	vertical-align: middle;
 	width: 30%;
 }
 
 .fa {
-  padding: 0px;
-  font-size: 100px;
-  width: 100px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
+ 	padding: 20px;
+ 	font-size: 70px;
+ 	width: 50px;
+ 	text-align: center;
+ 	text-decoration: none;
+ 	margin: 5px 2px;
 }
 
 .fa-linkedin {
