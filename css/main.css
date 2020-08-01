@@ -5,15 +5,9 @@ header {
 	text-align: center;
 }
 
-.menu-bar {
-  width: 35px;
-  height: 5px;
-  background-color: black;
-  margin: 6px 0;
-}
-
 .menu {
 	display: inline-block;
+	float: left;
 }
 
 a.home {
@@ -34,7 +28,7 @@ a.home:hover, a.home:active {
 	float: right;
 }
 
-.fa {
+.fa, .fas {
   padding: 0px;
   font-size: 50px;
   width: 70px;
