@@ -5,18 +5,17 @@ header {
 }
 
 .menu {
-	vertical-align: middle;
-	width: 33vw;
-	float: left;
-	background-color: violet;
+	padding-left: 15vw;
 }
 
 a.home {
 	color: Black;
 	text-decoration: none;
-	width: 33%
-	vertical-align: middle;
-	background-color: violet;
+	float: none;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
 }
 
 a.home:hover, a.home:active {
@@ -25,11 +24,9 @@ a.home:hover, a.home:active {
 }
 
 .social-icons {
-	vertical-align: middle;
-	width: 33%;
-	float: right;
 	display: inline-block;
-	background-color: yellow;
+	float: right;
+	
 }
 
 .fa {
