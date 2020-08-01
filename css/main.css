@@ -8,7 +8,7 @@ header {
 .menu {
 	display: inline-block;
 	float: left;
-	background-color: blue;
+	vertical-align: middle;
 }
 
 a.home {
@@ -17,7 +17,7 @@ a.home {
 	text-decoration: none;
 	padding-left: 15vw;
 	padding-right: 15vw;
-	background-color: yellow;
+	vertical-align: middle;
 }
 
 a.home:hover, a.home:active {
@@ -28,13 +28,13 @@ a.home:hover, a.home:active {
 .social-icons {
 	display: inline-block;
 	float: right;
-	background-color: green;
+	vertical-align: middle;
 }
 
 .fa, .fas {
   padding: 0px;
-  font-size: 50px;
-  width: 70px;
+  font-size: 100px;
+  width: 100px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
