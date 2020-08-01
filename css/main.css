@@ -3,6 +3,15 @@ header {
 	width: 100vw;
 }
 
+a.home {
+	color: Black;
+}
+
+a.home:hover, a.home:active {
+	color: Black;
+	text-decoration: none;
+}
+
 .welcome {
 	background-image: url("/images/grad_photo.JPG");
 	text-align: center;
@@ -11,7 +20,7 @@ header {
 }
 
 body {
-    /*margin: 0px;*/
+    margin: 0px;
     background-color: white;
 }
 
