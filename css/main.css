@@ -1,18 +1,17 @@
 header {
-	display: inline-block;
+	display: inline;
 	color: Black;
 	text-align: center;
 }
 
 .menu {
-	display: inline-block;
+	display: inline;
 	float: left;
 	vertical-align: middle;
 	width: 10%;
 }
 
 a.home {
-	display: inline-block;
 	color: Black;
 	text-decoration: none;
 	width: 60%
@@ -25,7 +24,7 @@ a.home:hover, a.home:active {
 }
 
 .social-icons {
-	display: inline-block;
+	display: inline;
 	float: right;
 	vertical-align: middle;
 	width: 30%;
