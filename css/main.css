@@ -1,12 +1,14 @@
 header {
 	color: Black;
-	/*text-align: center; */
+	display: inline-block;
+	text-align: center;
 }
 
 .menu {
 	vertical-align: middle;
 	width: 33%;
-	display: inline-block;
+	float: left;
+	background-color: pink;
 }
 
 a.home {
@@ -14,7 +16,7 @@ a.home {
 	text-decoration: none;
 	width: 33%
 	vertical-align: middle;
-	display: inline-block;
+	background-color: violet;
 }
 
 a.home:hover, a.home:active {
@@ -25,17 +27,19 @@ a.home:hover, a.home:active {
 .social-icons {
 	vertical-align: middle;
 	width: 33%;
+	float: right;
 	display: inline-block;
+	background-color: yellow;
 }
 
-/*.fa {
+.fa {
  	padding: 20px;
  	font-size: 70px;
  	width: 50px;
  	text-align: center;
  	text-decoration: none;
  	margin: 5px 2px;
-}*/
+}
 
 .fa-linkedin {
   background: white;
