@@ -26,7 +26,8 @@ a.home:hover, a.home:active {
 
 .social-icons {
 	float: right;
-	
+	position: absolute;
+	transform: translate(0%, -75%)
 }
 
 .fa {
@@ -41,19 +42,16 @@ a.home:hover, a.home:active {
 .fa-linkedin {
   background: white;
   color: black;
-	transform: translate(0%, 50%)
 }
 
 .fa-github {
 	background: white;
 	color: black;
-	transform: translate(0%, 50%)
 }
 
 .fa-instagram {
 	background: white;
 	color: black;
-	transform: translate(0%, 50%)
 }
 
 .welcome {
