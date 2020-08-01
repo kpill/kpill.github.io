@@ -17,6 +17,35 @@ a.home:hover, a.home:active {
 	text-decoration: none;
 }
 
+.social-icons {
+	display: inline-block;
+	float: right;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-linkedin {
+  background: white;
+  color: black;
+}
+
+.fa-github {
+	background: white;
+	color: black;
+}
+
+.fa-instagram {
+	background: white;
+	color: black;
+}
+
 .welcome {
 	background-image: url("/images/grad_photo.JPG");
 	text-align: center;
