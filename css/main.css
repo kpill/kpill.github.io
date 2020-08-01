@@ -6,9 +6,9 @@ header {
 
 .menu {
 	vertical-align: middle;
-	width: 33%;
+	width: 33vw;
 	float: left;
-	background-color: pink;
+	background-color: violet;
 }
 
 a.home {
