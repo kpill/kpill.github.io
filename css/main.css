@@ -1,20 +1,20 @@
 header {
-	display: inline;
 	color: Black;
-	text-align: center;
+	/*text-align: center; */
 }
 
 .menu {
-	float: left;
 	vertical-align: middle;
-	width: 10%;
+	width: 33%;
+	display: inline-block;
 }
 
 a.home {
 	color: Black;
 	text-decoration: none;
-	width: 60%
+	width: 33%
 	vertical-align: middle;
+	display: inline-block;
 }
 
 a.home:hover, a.home:active {
@@ -23,19 +23,19 @@ a.home:hover, a.home:active {
 }
 
 .social-icons {
-	float: right;
 	vertical-align: middle;
-	width: 30%;
+	width: 33%;
+	display: inline-block;
 }
 
-.fa {
+/*.fa {
  	padding: 20px;
  	font-size: 70px;
  	width: 50px;
  	text-align: center;
  	text-decoration: none;
  	margin: 5px 2px;
-}
+}*/
 
 .fa-linkedin {
   background: white;
