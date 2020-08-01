@@ -1,7 +1,5 @@
 header {
 	color: Black;
-	text-align: center;
-	/*vertical-align: middle;*/
 	width: 100vw;
 }
 
@@ -12,17 +10,8 @@ header {
 	background-size: 100vw auto;
 }
 
-a.home {
-	color: Black;
-	text-decoration: none;
-}
-
-a.home:hover {
-	color: Black;	
-}
-
 body {
-    margin: 0px;
+    /*margin: 0px;*/
     background-color: white;
 }
 
@@ -87,6 +76,7 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -116,10 +106,6 @@ a.posts {
 	height: 101px;
 	width: 100%;
 	text-decoration: none;
-}
-
-a.posts:hover, a.posts:active {
-	text-decoration: underline;
 }
 	
 .grid_container {
