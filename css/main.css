@@ -1,7 +1,7 @@
 header {
 	display: inline-block;
 	color: Black;
-	width: auto;
+	width: 100vw;
 	text-align: center;
 }
 
@@ -9,14 +9,14 @@ header {
 	display: inline-block;
 	float: left;
 	vertical-align: middle;
+	width: 10%;
 }
 
 a.home {
 	display: inline-block;
 	color: Black;
 	text-decoration: none;
-	padding-left: 15vw;
-	padding-right: 15vw;
+	width: 60%
 	vertical-align: middle;
 }
 
@@ -29,6 +29,7 @@ a.home:hover, a.home:active {
 	display: inline-block;
 	float: right;
 	vertical-align: middle;
+	width: 30%;
 }
 
 .fa, .fas {
