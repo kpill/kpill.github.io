@@ -27,7 +27,9 @@ a.home:hover, a.home:active {
 .social-icons {
 	float: right;
 	position: absolute;
-	transform: translate(0%, -75%)
+	top: 50%
+	left: 50%
+	transform: translate(45%, -50%)
 }
 
 .fa {
