@@ -1,14 +1,13 @@
 header {
 	color: Black;
 	width: 100vw;
+	text-align: center;
 }
 
 a.home {
 	display: inline-block;
 	color: Black;
 	text-decoration: none;
-	padding-left: 10vw;
-	padding-right: 60vw;
 }
 
 a.home:hover, a.home:active {
