@@ -5,7 +5,8 @@ header {
 }
 
 .menu {
-	padding-left: 15vw;
+	float: left;
+	padding-left: 5vw;
 }
 
 a.home {
@@ -24,7 +25,6 @@ a.home:hover, a.home:active {
 }
 
 .social-icons {
-	display: inline-block;
 	float: right;
 	
 }
