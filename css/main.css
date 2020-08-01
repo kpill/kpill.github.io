@@ -13,6 +13,20 @@ a.home:hover, a.home:active {
 	text-decoration: none;
 }
 
+.hometest {
+	display: inline-block;
+}
+
+.navtest {
+	display:inline-block;
+	text-align: center;
+}
+
+.logotest {
+	display: inline-block;
+	text-align: right;
+}
+
 .welcome {
 	background-image: url("/images/grad_photo.JPG");
 	text-align: center;
