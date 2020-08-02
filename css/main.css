@@ -114,16 +114,17 @@ html, body {
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: bold;
+	background-color: tan;
 }
 
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0;
+    padding-top: 30px;
     margin: 0;
     list-style-type: none;
     overflow: hidden;
-    background-color: vividGreen;
     width: 100vw;
+	text-align: center;
 }
 
 nav li, footer li {
@@ -135,11 +136,7 @@ a.nav {
     text-align: left;
     display: block;
     padding: 10px 40px;
-	color: Black;
-}
-
-a.nav:hover {
-    background-color: LightYellow;
+	color: #999;
 }
 
 .topnav-centered {
