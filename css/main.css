@@ -68,19 +68,19 @@ a.home:hover, a.home:active {
 .fa-linkedin {
  	background: white;
   	color: black;
-	transform: translate(0%, -100%)
+	transform: translate(0%, -75%)
 }
 
 .fa-github {
 	background: white;
 	color: black;
-	transform: translate(0%, -100%)
+	transform: translate(0%, -75%)
 }
 
 .fa-instagram {
 	background: white;
 	color: black;
-	transform: translate(0%, -100%)
+	transform: translate(0%, -75%)
 }
 
 .welcome {
