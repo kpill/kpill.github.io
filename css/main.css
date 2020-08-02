@@ -127,7 +127,6 @@ nav ul {
     list-style-type: none;
     overflow: hidden;
     width: 100vw;
-	text-align: center;
 }
 
 nav li, footer li {
@@ -136,10 +135,11 @@ nav li, footer li {
 
 a.nav {
     text-decoration: none;
-    text-align: left;
     display: block;
     padding: 10px 40px;
 	color: #999;
+	display:flex;
+	justify-content: center;
 }
 
 .topnav-centered {
