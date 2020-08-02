@@ -57,7 +57,6 @@ a.home:hover, a.home:active {
 }
 
 .fa {
- 	padding: 20px;
  	font-size: 70px;
  	width: 50px;
  	text-align: center;
@@ -66,18 +65,21 @@ a.home:hover, a.home:active {
 }
 
 .fa-linkedin {
+	padding: 20px;
  	background: white;
   	color: black;
 	transform: translate(0%, -75%)
 }
 
 .fa-github {
+	padding: 20px;
 	background: white;
 	color: black;
 	transform: translate(0%, -75%)
 }
 
 .fa-instagram {
+	padding: 20px;
 	background: white;
 	color: black;
 	transform: translate(0%, -75%)
