@@ -3,6 +3,8 @@ header {
 	/*overflow: hidden;*/
 	color: Black;
 	background-color: tan;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 /*header h1 {
@@ -111,8 +113,6 @@ html, body {
 
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
     font-weight: bold;
 }
 
@@ -168,7 +168,6 @@ p {
 
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
 }
 
 a.footer {
@@ -176,8 +175,8 @@ a.footer {
 	color: #999;
 }
 
-a.footer:hover {
-	color: Blue;
+a.footer:hover, a.footer:active {
+	text-decoration: none;
 }
 
 ul.posts { 
