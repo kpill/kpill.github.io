@@ -2,7 +2,7 @@ header {
 	position: relative;
 	overflow: hidden;
 	color: Black;
-	background-color: SandyBrown;
+	background-color: tan;
 }
 
 header h1 {
@@ -72,21 +72,21 @@ a.home:hover, a.home:active {
 
 .fa-linkedin {
 	padding: 10px;
- 	background: white;
+ 	background: tan;
   	color: black;
 	/*transform: translate(0%, -75%)*/
 }
 
 .fa-github {
 	padding: 10px;
-	background: white;
+	background: tan;
 	color: black;
 	/*transform: translate(0%, -75%)*/
 }
 
 .fa-instagram {
 	padding: 10px;
-	background: white;
+	background: tan;
 	color: black;
 	/*transform: translate(0%, -75%)*/
 }
