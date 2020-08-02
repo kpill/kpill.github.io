@@ -2,11 +2,13 @@ header {
 	position: relative;
 	overflow: hidden;
 	color: Black;
+	background-color: SandyBrown;
 }
 
 .menu {
 	float: left;
 	padding-left: 5vw;
+	vertical-align: middle;
 }
 
 .dropdown {
@@ -65,24 +67,24 @@ a.home:hover, a.home:active {
 }
 
 .fa-linkedin {
-	padding: 20px;
+	padding: 10px;
  	background: white;
   	color: black;
-	transform: translate(0%, -75%)
+	/*transform: translate(0%, -75%)*/
 }
 
 .fa-github {
-	padding: 20px;
+	padding: 10px;
 	background: white;
 	color: black;
-	transform: translate(0%, -75%)
+	/*transform: translate(0%, -75%)*/
 }
 
 .fa-instagram {
-	padding: 20px;
+	padding: 10px;
 	background: white;
 	color: black;
-	transform: translate(0%, -75%)
+	/*transform: translate(0%, -75%)*/
 }
 
 .welcome {
