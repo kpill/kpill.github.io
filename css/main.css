@@ -5,6 +5,10 @@ header {
 	background-color: SandyBrown;
 }
 
+header h1 {
+	margin: 0;
+}
+
 .menu {
 	float: left;
 	padding-left: 5vw;
