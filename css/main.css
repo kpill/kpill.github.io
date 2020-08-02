@@ -53,6 +53,7 @@ a.home {
   	top: 50%;
   	left: 50%;
   	transform: translate(-50%, -50%);
+	vertical-align: middle;
 }
 
 a.home:hover, a.home:active {
@@ -62,6 +63,7 @@ a.home:hover, a.home:active {
 
 .social-icons {
 	float: right;
+	vertical-align: middle;
 }
 
 .fa {
