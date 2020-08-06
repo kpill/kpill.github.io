@@ -1,6 +1,6 @@
 header {
 	position: relative;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	color: Black;
 	background-color: rgb(230, 204, 179);
 	margin: 0;
@@ -77,7 +77,7 @@ a.home:hover, a.home:active {
 
 .fa-linkedin {
 	padding: 10px;
- 	background: rgb(230, 204, 179);
+ 	background: blue;
   	color: black;
 	vertical-align: middle;
 	/*transform: translate(0%, -75%)*/
