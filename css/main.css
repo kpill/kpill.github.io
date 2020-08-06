@@ -1,10 +1,10 @@
 header {
-	position: relative;
+	/*position: relative;*/
 	/*overflow: hidden;*/
 	color: Black;
 	background-color: tan;
-	/*padding-top: 20px;
-	padding-bottom: 20px;*/
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 h1.header {
@@ -100,7 +100,7 @@ a.home:hover, a.home:active {
 }
 
 .welcome {
-	/*margin-top: 0;*/
+	margin-top: 0;
 	background-image: url("/images/grad_photo.JPG");
 	text-align: center;
 	vertical-align: middle;
