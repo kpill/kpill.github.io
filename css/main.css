@@ -64,7 +64,6 @@ a.home:hover, a.home:active {
 
 .social-icons {
 	float: right;
-	vertical-align: middle;
 	margin: 0;
 }
 
@@ -80,6 +79,7 @@ a.home:hover, a.home:active {
 	padding: 10px;
  	background: rgb(230, 204, 179);
   	color: black;
+	vertical-align: middle;
 	/*transform: translate(0%, -75%)*/
 }
 
@@ -87,6 +87,7 @@ a.home:hover, a.home:active {
 	padding: 10px;
 	background: rgb(230, 204, 179);
 	color: black;
+	vertical-align: middle;
 	/*transform: translate(0%, -75%)*/
 }
 
@@ -94,6 +95,7 @@ a.home:hover, a.home:active {
 	padding: 10px;
 	background: rgb(230, 204, 179);
 	color: black;
+	vertical-align: middle;
 	/*transform: translate(0%, -75%)*/
 }
 
