@@ -1,6 +1,6 @@
 header {
 	position: relative;
-	/*overflow: hidden;*/
+	overflow: hidden;
 	color: Black;
 	background-color: rgb(230, 204, 179);
 	margin: 0;
@@ -92,7 +92,7 @@ a.home:hover, a.home:active {
 
 .fa-instagram {
 	padding: 10px;
-	background: tan;
+	background: blue;
 	color: black;
 	/*transform: translate(0%, -75%)*/
 }
