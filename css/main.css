@@ -1,16 +1,14 @@
 header {
-	/*position: relative;*/
+	position: relative;
 	/*overflow: hidden;*/
 	color: Black;
-	background-color: tan;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	background-color: rgb(230, 204, 179);
+	margin: 0;
 }
 
 h1.header {
 	margin: 0;
 	padding: 0;
-	vertical-align: middle;
 }
 
 .menu {
