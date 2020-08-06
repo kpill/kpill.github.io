@@ -1,6 +1,6 @@
 header {
 	position: relative;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	color: Black;
 	background-color: tan;
 	/*padding-top: 20px;
@@ -10,6 +10,7 @@ header {
 h1.header {
 	margin: 0;
 	padding: 0;
+	vertical-align: middle;
 }
 
 .menu {
