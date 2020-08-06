@@ -81,7 +81,7 @@ a.home:hover, a.home:active {
  	background: rgb(230, 204, 179);
   	color: black;
 	vertical-align: middle;
-	/*transform: translate(0%, -75%)*/
+	transform: translate(0%, -75%)
 }
 
 .fa-github {
