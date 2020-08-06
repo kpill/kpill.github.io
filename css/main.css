@@ -21,6 +21,7 @@ h1.header {
 .dropdown {
   position: relative;
   display: inline-block;
+	overflow: visible;
 }
 
 .dropdown-content {
