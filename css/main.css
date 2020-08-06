@@ -1,10 +1,10 @@
 header {
 	position: relative;
-	/*overflow: hidden;*/
+	overflow: hidden;
 	color: Black;
 	background-color: tan;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	/*padding-top: 20px;
+	padding-bottom: 20px;*/
 }
 
 h1.header {
@@ -16,6 +16,7 @@ h1.header {
 	float: left;
 	padding-left: 5vw;
 	vertical-align: middle;
+	margin: 0;
 }
 
 .dropdown {
@@ -65,6 +66,7 @@ a.home:hover, a.home:active {
 .social-icons {
 	float: right;
 	vertical-align: middle;
+	margin: 0;
 }
 
 .fa {
