@@ -78,21 +78,21 @@ a.home:hover, a.home:active {
 
 .fa-linkedin {
 	padding: 10px;
- 	background: tan;
+ 	background: rgb(230, 204, 179);
   	color: black;
 	/*transform: translate(0%, -75%)*/
 }
 
 .fa-github {
 	padding: 10px;
-	background: tan;
+	background: rgb(230, 204, 179);
 	color: black;
 	/*transform: translate(0%, -75%)*/
 }
 
 .fa-instagram {
 	padding: 10px;
-	background: blue;
+	background: rgb(230, 204, 179);
 	color: black;
 	/*transform: translate(0%, -75%)*/
 }
