@@ -1,6 +1,6 @@
 header {
 	position: relative;
-	/*overflow: hidden;*/
+	overflow: hidden;
 	color: Black;
 	background-color: rgb(230, 204, 179);
 	margin: 0;
@@ -8,8 +8,6 @@ header {
 
 h1.header {
 	margin: 0;
-	padding-top: 5vw;
-	padding-bottom: 5vw;
 	overflow: hidden;
 }
 
