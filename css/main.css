@@ -4,7 +4,7 @@ header {
 	color: Black;
 	background-color: rgb(230, 204, 179);
 	margin: 0;
-	/*z-index: -1;*/
+	z-index: 1;
 }
 
 h1.header {
@@ -12,14 +12,15 @@ h1.header {
 }
 
 .menu {
-	position: absolute;
+	position: relative;
 	background-color: rgb(230, 204, 179);
 	float: left;
 	padding-left: 5vw;
-	padding-right: 10vw
+	padding-right: 10vw;
 	vertical-align: middle;
 	margin: 0;
-	transform: translate(0%, 70%)
+	transform: translate(0%, 70%);
+	z-index: 2;
 }
 
 .dropdown {
