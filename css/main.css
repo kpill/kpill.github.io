@@ -2,7 +2,7 @@ header {
 	position: relative;
 	overflow: hidden;
 	color: Black;
-	background-color: rgb(230, 204, 179);
+	background-color: white;
 	margin: 0;
 	z-index: 1;
 }
@@ -13,7 +13,7 @@ h1.header {
 
 .menu {
 	position: relative;
-	background-color: rgb(230, 204, 179);
+	background-color: white;
 	float: left;
 	padding-left: 5vw;
 	padding-right: 10vw;
@@ -85,7 +85,7 @@ a.home:hover, a.home:active {
  	background: rgb(230, 204, 179);
   	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -35%);
+	/*transform: translate(0%, -35%);*/
 }
 
 .fa-github {
@@ -93,7 +93,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -35%);
+	/*transform: translate(0%, -35%);*/
 }
 
 .fa-instagram {
@@ -101,7 +101,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -35%);
+	/*transform: translate(0%, -35%);*/
 }
 
 .welcome {
