@@ -123,7 +123,8 @@ html, body {
 footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: bold;
-	background-color: tan;
+	background-color: white;
+	box-shadow: 8px 0px 0px 0px rgba(0,0,0,0.2);
 }
 
 nav ul {
