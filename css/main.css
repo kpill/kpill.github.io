@@ -4,14 +4,15 @@ header {
 	color: Black;
 	background-color: rgb(230, 204, 179);
 	margin: 0;
+	z-index: -1;
 }
 
 h1.header {
 	margin: 0;
-	overflow: hidden;
 }
 
 .menu {
+	position: absolute;
 	background-color: rgb(230, 204, 179);
 	float: left;
 	padding-left: 5vw;
@@ -33,7 +34,6 @@ h1.header {
   background-color: DarkSeaGreen;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 999;
 }
 
 .dropdown-content a {
@@ -56,8 +56,8 @@ a.home {
 	float: none;
   	position: absolute;
   	top: 50%;
-  	left: 35%;
-  	transform: translate(-35%, -50%);
+  	left: 45%;
+  	transform: translate(-45%, -50%);
 	vertical-align: middle;
 }
 
@@ -84,7 +84,7 @@ a.home:hover, a.home:active {
  	background: rgb(230, 204, 179);
   	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -40%)
+	transform: translate(0%, -35%)
 }
 
 .fa-github {
@@ -92,7 +92,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -40%)
+	transform: translate(0%, -35%)
 }
 
 .fa-instagram {
@@ -100,7 +100,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -40%)
+	transform: translate(0%, -35%)
 }
 
 .welcome {
