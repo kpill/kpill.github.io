@@ -16,7 +16,7 @@ h1.header {
 	padding-left: 5vw;
 	vertical-align: middle;
 	margin: 0;
-	transform: translate(0%, -50%)
+	transform: translate(0%, 50%)
 }
 
 .dropdown {
@@ -54,8 +54,8 @@ a.home {
 	float: none;
   	position: absolute;
   	top: 50%;
-  	left: 40%;
-  	transform: translate(-40%, -50%);
+  	left: 45%;
+  	transform: translate(-45%, -50%);
 	vertical-align: middle;
 }
 
