@@ -2,7 +2,7 @@ header {
 	position: relative;
 	overflow: hidden;
 	color: Black;
-	background-color: white;
+	background-color: rgb(230, 204, 179);
 	margin: 0;
 	z-index: 1;
 }
@@ -13,13 +13,15 @@ h1.header {
 
 .menu {
 	position: relative;
-	background-color: white;
+	background-color: rgb(230, 204, 179);
 	float: left;
 	padding-left: 5vw;
 	padding-right: 10vw;
 	vertical-align: middle;
 	margin: 0;
-	transform: translate(0%, 70%);
+	padding-top: 100%;
+	padding-bottom: 100%
+	/*transform: translate(0%, 70%);*/
 	z-index: 2;
 }
 
@@ -85,8 +87,7 @@ a.home:hover, a.home:active {
  	background: rgb(230, 204, 179);
   	color: black;
 	vertical-align: middle;
-	/*transform: translate(0%, -35%);*/
-	transform: translate(0%, 50%);
+	transform: translate(0%, -35%);
 }
 
 .fa-github {
@@ -94,8 +95,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	/*transform: translate(0%, -35%);*/
-	transform: translate(0%, 50%);
+	transform: translate(0%, -35%);
 }
 
 .fa-instagram {
@@ -103,8 +103,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	/*transform: translate(0%, -35%);*/
-	transform: translate(0%, 50%);
+	transform: translate(0%, -35%);
 }
 
 .welcome {
@@ -112,6 +111,7 @@ a.home:hover, a.home:active {
 	text-align: center;
 	vertical-align: middle;
 	background-size: 100vw auto;
+	z-index: 3;
 }
 
 body {
