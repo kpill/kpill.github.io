@@ -83,6 +83,7 @@ a.home:hover, a.home:active {
   	color: black;
 	vertical-align: middle;
 	/*transform: translate(0%, -40%)*/
+	transform: translate(0%, 40%)
 }
 
 .fa-github {
@@ -91,6 +92,7 @@ a.home:hover, a.home:active {
 	color: black;
 	vertical-align: middle;
 	/*transform: translate(0%, -40%)*/
+	transform: translate(0%, 40%)
 }
 
 .fa-instagram {
@@ -99,6 +101,7 @@ a.home:hover, a.home:active {
 	color: black;
 	vertical-align: middle;
 	/*transform: translate(0%, -35%)*/
+	transform: translate(0%, 40%)
 }
 
 .welcome {
