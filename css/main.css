@@ -2,7 +2,7 @@ header {
 	position: relative;
 	overflow: hidden;
 	color: Black;
-	background-color: rgb(230, 204, 179);
+	background-color: white;
 	margin: 0;
 }
 
@@ -16,6 +16,7 @@ h1.header {
 	padding-left: 5vw;
 	vertical-align: middle;
 	margin: 0;
+	transform: translate(0%, -50%)
 }
 
 .dropdown {
@@ -53,8 +54,8 @@ a.home {
 	float: none;
   	position: absolute;
   	top: 50%;
-  	left: 50%;
-  	transform: translate(-50%, -50%);
+  	left: 40%;
+  	transform: translate(-40%, -50%);
 	vertical-align: middle;
 }
 
@@ -81,7 +82,7 @@ a.home:hover, a.home:active {
  	background: rgb(230, 204, 179);
   	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -45%)
+	/*transform: translate(0%, -40%)*/
 }
 
 .fa-github {
@@ -89,7 +90,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -40%)
+	/*transform: translate(0%, -40%)*/
 }
 
 .fa-instagram {
@@ -97,7 +98,7 @@ a.home:hover, a.home:active {
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
-	transform: translate(0%, -35%)
+	/*transform: translate(0%, -35%)*/
 }
 
 .welcome {
