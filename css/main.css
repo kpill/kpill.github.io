@@ -8,8 +8,8 @@ header {
 
 h1.header {
 	margin: 0;
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 5vw;
+	padding-bottom: 5vw;
 	overflow: hidden;
 }
 
@@ -81,7 +81,7 @@ a.home:hover, a.home:active {
 .fa-linkedin {
 	padding: 10px;
  	background: rgb(230, 204, 179);
-  	color: blue;
+  	color: black;
 	vertical-align: middle;
 	transform: translate(0%, -45%)
 }
@@ -89,7 +89,7 @@ a.home:hover, a.home:active {
 .fa-github {
 	padding: 10px;
 	background: rgb(230, 204, 179);
-	color: blue;
+	color: black;
 	vertical-align: middle;
 	transform: translate(0%, -40%)
 }
