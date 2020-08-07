@@ -4,7 +4,7 @@ header {
 	color: Black;
 	background-color: rgb(230, 204, 179);
 	margin: 0;
-	z-index: -1;
+	/*z-index: -1;*/
 }
 
 h1.header {
