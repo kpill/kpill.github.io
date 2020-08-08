@@ -90,6 +90,13 @@ a.home:hover, a.home:active {
 	transform: translate(0%, 50%);
 }
 
+footer .fa-linkedin {
+	transform: translate(-50%, 0%);
+	background: white;
+	color: #999;
+}
+
+
 .fa-github {
 	padding: 10px;
 	background: rgb(230, 204, 179);
@@ -98,12 +105,25 @@ a.home:hover, a.home:active {
 	transform: translate(0%, 50%);
 }
 
+footer .fa-github {
+	transform: translate(-50%, 0%);
+	background: white;
+	color: #999;
+}
+
 .fa-instagram {
 	padding: 10px;
 	background: rgb(230, 204, 179);
 	color: black;
 	vertical-align: middle;
 	transform: translate(0%, 50%);
+}
+
+
+footer .fa-instagram {
+	transform: translate(-50%, 0%);
+	background: white;
+	color: #999;
 }
 
 .welcome {
@@ -152,11 +172,7 @@ a.nav {
     padding: 10px 40px;
 	color: #999;
 	display:flex;
-	transform: translate(50%, 0);
-}
-
-footer.social-icons {
-	transform: translate(-50%, 0);
+	transform: translate(50%, 0%);
 }
 
 .topnav-centered {
