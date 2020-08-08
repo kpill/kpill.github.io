@@ -196,6 +196,8 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+	margin-left: 25vw;
+	margin-right: 25vw;
 }
 
 footer {
@@ -247,4 +249,21 @@ img.link {
 
 img.link:hover {
 	opacity: 0.75;
+}
+
+h1.post {
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin-left: 25vw;
+	margin-right: 25vw;
+}
+
+h2.post, h3.post {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-left: 25vw;
+}
+
+img.post {
+	width: 50vw;
+	height: 30vw;
+	margin-left: 25vw;
 }
