@@ -90,7 +90,7 @@ a.home:hover, a.home:active {
 }
 
 footer .fa-linkedin {
-	transform: translate(-50%, 0%);
+	transform: translate(-200%, 0%);
 	background: white;
 	color: #999;
 }
@@ -104,7 +104,7 @@ footer .fa-linkedin {
 }
 
 footer .fa-github {
-	transform: translate(-50%, 0%);
+	transform: translate(-200%, 0%);
 	background: white;
 	color: #999;
 }
@@ -118,7 +118,7 @@ footer .fa-github {
 
 
 footer .fa-instagram {
-	transform: translate(-50%, 0%);
+	transform: translate(-200%, 0%);
 	background: white;
 	color: #999;
 }
@@ -169,7 +169,7 @@ a.nav {
     padding: 10px 40px;
 	color: #999;
 	display:flex;
-	transform: translate(50%, 0%);
+	transform: translate(200%, 0%);
 }
 
 .topnav-centered {
