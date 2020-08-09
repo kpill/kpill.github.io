@@ -91,7 +91,9 @@ a.home:hover, a.home:active {
 }
 
 footer .fa-linkedin {
-	transform: translate(-200%, 0%);
+	/*transform: translate(-200%, 0%);*/
+	margin-left: 50%;
+	margin-right: 50%;
 	background: white;
 	color: #999;
 }
@@ -169,10 +171,11 @@ nav li, footer li {
 a.nav {
     text-decoration: none;
     display: block;
-    padding: 10px 40px;
+    padding-left: 10px;
+	padding-right: 10px;
 	color: #999;
 	display:flex;
-	transform: translate(200%, 0%);
+	transform: translate(400%, 0%);
 }
 
 .topnav-centered {
