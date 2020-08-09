@@ -158,8 +158,10 @@ footer ul {
 }
 
 nav ul {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Arial Black", Gadget, sans-serif;
+	text-decoration: none;
     padding-top: 30px;
+	padding-bottom: 20px;
     margin: 0;
     list-style-type: none;
     overflow: hidden;
@@ -171,7 +173,6 @@ nav li, footer li {
 }
 
 a.nav {
-    text-decoration: bold;
     display: block;
     padding-left: 20px;
 	padding-right: 20px;
@@ -205,6 +206,7 @@ p {
 }
 
 footer {
+	background-color: rgb(230, 204, 179);
     border-top: 1px solid #d5d5d5;
 }
 
