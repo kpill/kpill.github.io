@@ -96,7 +96,6 @@ footer .social-icons {
 }
 
 footer .fa-linkedin {
-	text-decoration: bold;
 	background: white;
 	color: #999;
 }
@@ -111,7 +110,6 @@ footer .fa-linkedin {
 }
 
 footer .fa-github {
-	text-decoration: bold;
 	background: white;
 	color: #999;
 }
@@ -126,7 +124,6 @@ footer .fa-github {
 
 
 footer .fa-instagram {
-	text-decoration: bold;
 	background: white;
 	color: #999;
 }
@@ -213,11 +210,12 @@ footer {
 
 a.footer {
 	text-decoration: none;
+	font-weight: bold;
 	color: #999;
 }
 
 a.footer:hover, a.footer:active {
-	text-decoration: bold;
+	text-decoration: none;
 }
 
 ul.posts { 
@@ -259,7 +257,8 @@ img.link:hover {
 }
 
 h1.post {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
 	margin-left: 20vw;
 	margin-right: 20vw;
 	font-size: 3em;
