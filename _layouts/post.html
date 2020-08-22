@@ -1,11 +1,13 @@
 ---
 layout: default
 ---
+<h1 class="post">{{ page.title }}</h1>
+<h3 class="post">{{ page.date | date_to_string }}</h3>
+
 <div class="post">
   {{ page.picture_post }}
 </div>
 
-<h1 class="post">{{ page.title }}</h1>
 <h2 class="post">{{ page.subtitle }}</h2>
 <h3 class="post">{{ page.date | date_to_string }}</h3>
 
