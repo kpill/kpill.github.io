@@ -279,8 +279,10 @@ h1.about {
 	margin-left: 5vw;
 	font-size: 1.7em;
 	color: saddleBrown;
+	font-family: "Arial Black", Gadget, sans-serif;
 }
 
 p.about {
 	margin-left: 5vw;
+	font-family: Verdana, Geneva, sans-serif;
 }
