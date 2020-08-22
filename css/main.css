@@ -95,6 +95,7 @@ footer .social-icons {
 }
 
 footer .fa-linkedin {
+	padding-left: 20px;
 	background: white;
 	color: #999;
 }
@@ -159,7 +160,7 @@ nav ul {
 	text-decoration: none;
     padding-top: 30px;
 	padding-bottom: 20px;
-    margin-left: 0px;
+    margin: 0px;
     list-style-type: none;
     overflow: hidden;
     width: 100vw;
