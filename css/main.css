@@ -257,6 +257,7 @@ img.link:hover {
 }
 
 h1.post {
+	padding-top: 5vw;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-weight: bold;
 	margin-left: 20vw;
