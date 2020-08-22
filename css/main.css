@@ -274,3 +274,13 @@ img.post {
 	height: 40vw;
 	margin-left: 20vw;
 }
+
+h1.about {
+	margin-left: 5vw;
+	font-size: 1.7em;
+	color: saddleBrown;
+}
+
+p.about {
+	margin-left: 5vw;
+}
