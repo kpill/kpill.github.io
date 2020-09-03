@@ -1,5 +1,5 @@
-/*Top bar*/
-	/*Kamala Pillai*/
+/*top bar*/
+	/*title*/
 		header {
 			position: relative;
 			overflow: hidden;
@@ -21,6 +21,10 @@
   			left: 35%;
   			transform: translate(-35%, -50%);
 			vertical-align: middle;
+		}
+		a.home:hover, a.home:active {
+			color: Black;
+			text-decoration: none;
 		}
 	/*dropdown menu*/
 		.menu {
@@ -63,81 +67,76 @@
 		.dropdown:hover .dropdown-content {
   			display: block;
 		}
+	/*social icons*/
+		.social-icons {
+			float: right;
+			margin: 0;
+		}
+		.fa {
+ 			font-size: 70px;
+ 			width: 50px;
+ 			text-align: center;
+ 			text-decoration: none;
+ 			margin: 5px 2px;
+		}
+
+		.fa-linkedin {
+			padding: 10px;
+ 			background: rgb(230, 204, 179);
+  			color: black;
+			vertical-align: middle;
+			transform: translate(0%, -30%);
+		}
+	
+		.fa-github {
+			padding: 10px;
+			background: rgb(230, 204, 179);
+			color: black;
+			vertical-align: middle;
+			transform: translate(0%, -30%);
+		}
+
+		.fa-instagram {
+			padding: 10px;
+			background: rgb(230, 204, 179);
+			color: black;
+			vertical-align: middle;
+			transform: translate(0%, -30%);
+		}
+
+/*footer*/
+	/*social icons*/
+		footer .social-icons {
+			float: left;
+		}
+
+		footer .fa-linkedin {
+			padding-left: 20px;
+			background: white;
+			color: #999;
+		}
+
+		footer .fa-github {
+			background: white;
+			color: #999;
+		}
 
 
+		footer .fa-instagram {
+			background: white;
+			color: #999;
+		}
 
-a.home:hover, a.home:active {
-	color: Black;
-	text-decoration: none;
-}
+/*welcome home page*/
+	.welcome {
+		background-image: url("/images/background_photo.jpg");
+		opacity: 0.8
+		text-align: center;
+		vertical-align: middle;
+		background-size: 100vw auto;
+		z-index: -1;
+	}
 
-.social-icons {
-	float: right;
-	margin: 0;
-}
-
-footer .social-icons {
-	float: left;
-}
-
-.fa {
- 	font-size: 70px;
- 	width: 50px;
- 	text-align: center;
- 	text-decoration: none;
- 	margin: 5px 2px;
-}
-
-.fa-linkedin {
-	padding: 10px;
- 	background: rgb(230, 204, 179);
-  	color: black;
-	vertical-align: middle;
-	transform: translate(0%, -30%);
-}
-
-footer .fa-linkedin {
-	padding-left: 20px;
-	background: white;
-	color: #999;
-}
-
-
-.fa-github {
-	padding: 10px;
-	background: rgb(230, 204, 179);
-	color: black;
-	vertical-align: middle;
-	transform: translate(0%, -30%);
-}
-
-footer .fa-github {
-	background: white;
-	color: #999;
-}
-
-.fa-instagram {
-	padding: 10px;
-	background: rgb(230, 204, 179);
-	color: black;
-	vertical-align: middle;
-	transform: translate(0%, -30%);
-}
-
-
-footer .fa-instagram {
-	background: white;
-	color: #999;
-}
-
-.welcome {
-	background-image: url("/images/background_photo.jpg");
-	opacity: 0.8
-	text-align: center;
-	vertical-align: middle;
-	background-size: 100vw auto;
-	z-index: -1;
-}
 
 body {
 	margin: 0px;
