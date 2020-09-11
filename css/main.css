@@ -260,6 +260,7 @@ html, body {
 
 	a.welcome {
 		color: black;
+		background-color: lightblue;
 		text-decoration: none;
 	}
 
