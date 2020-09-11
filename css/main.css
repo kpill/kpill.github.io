@@ -233,8 +233,8 @@ html, body {
 
 	.yellow-box {
 		background-color: rgb(255,255,153);
-		width: 500px;
-		height: 100px;
+		/*width: 500px;
+		height: 100px;*/
 		padding: 5px;
 		/*transform: translate(75%, 50%);*/
 	}
