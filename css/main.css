@@ -118,9 +118,14 @@ html, body {
 
 /*footer*/
 	footer {
-		background-color: rgb(230, 204, 179);
     		border-top: 1px solid #d5d5d5;
 	}
+
+	h3.footer-text {
+		color: rgb(169,169,169);
+		font-family: Geneva, Tahoma, Verdana, sans-serif;
+	}
+		
 	/*social icons*/
 		footer .social-icons {
 			float: left;
