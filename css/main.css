@@ -212,9 +212,16 @@ html, body {
 		background-color: blue;
 	}
 
-	.welcome-box {
+	.welcome-box-blue {
 		background-color: lightblue;
-		padding-top: 50px;
+		height: 7vw;
+		width: 100vw;
+	}
+
+	.welcome-box-black {
+		background-color: black;
+		height: 7vw;
+		width: 100vw;
 	}
 
 /*blog post list*/
