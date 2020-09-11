@@ -230,9 +230,6 @@ html, body {
 		transform: translate(-200%, 50%);
 	}
 
-	.welcome-text {
-		float: right;
-	}
 
 	h1.welcome-text {
 		font-family: Arial, Helvetica, sans-serif;
