@@ -258,6 +258,11 @@ html, body {
 		color: saddleBrown;
 	}
 
+	a.welcome {
+		color: black;
+		text-decoration: none;
+	}
+
 
 /*blog post list*/
 	ul.posts { 
