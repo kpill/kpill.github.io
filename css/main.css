@@ -21,16 +21,17 @@ html, body {
 		}
 
 		h1.header {
-			margin: 0;
+			margin-left: 5px;
 		}
 		a.home {
-			color: Black;
+			color: saddleBrown;
+			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
   			position: absolute;
-  			top: 50%;
+  			/*top: 50%;
   			left: 35%;
-  			transform: translate(-35%, -50%);
+  			transform: translate(-35%, -50%);*/
 			vertical-align: middle;
 		}
 		a.home:hover, a.home:active {
