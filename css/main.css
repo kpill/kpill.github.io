@@ -11,18 +11,19 @@ html, body {
 
 /*top bar*/
 	/*title*/
-		header {
+	/*	header {
 			position: relative;
 			overflow: hidden;
 			color: Black;
 			background-color: white;
 			margin: 0;
 			z-index: 1;
-		}
+		} */
 
-		h1.header {
+	/*	h1.header {
 			margin-left: 5px;
-		}
+		} */
+
 		a.home {
 			color: saddleBrown;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
@@ -34,12 +35,13 @@ html, body {
   			transform: translate(-5%, -50%);
 			vertical-align: middle;
 		}
+
 		a.home:hover, a.home:active {
 			color: saddleBrown;
 			text-decoration: none;
 		}
-	/*dropdown menu*/
-		.menu {
+	/*dropdown menu */
+	/*	.menu {
 			position: relative;
 			background-color: white;
 			float: left;
@@ -49,7 +51,7 @@ html, body {
 			margin: 0;
 			padding-top: 1.5vw;
 			padding-bottom: 1vw;
-			/*transform: translate(0%, 70%);*/
+			transform: translate(0%, 70%);
 			z-index: 2;
 		}
 
@@ -78,7 +80,7 @@ html, body {
 
 		.dropdown:hover .dropdown-content {
   			display: block;
-		}
+		} */
 	/*social icons*/
 		.social-icons {
 			float: right;
@@ -126,7 +128,7 @@ html, body {
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 	}
 		
-	/*social icons*/
+	/*social icons
 		footer .social-icons {
 			float: left;
 		}
@@ -146,15 +148,15 @@ html, body {
 		footer .fa-instagram {
 			background: white;
 			color: #999;
-		}
-	/*navigation*/
+		} */
+	/*navigation
 		footer ul {
     			font-family: Georgia, serif;
 			background-color: white;
 			box-shadow: 8px 0px 0px 0px rgba(0,0,0,0.2);
 			/*bottom: 50%;
 			left: 50%;
-			transform: translate(-50%, 50%);*/
+			transform: translate(-50%, 50%);
 		}
 		
 		nav ul {
@@ -192,18 +194,18 @@ html, body {
 
 		a.footer:hover, a.footer:active {
 			text-decoration: none;
-		}
+		} */
 
 
 /*welcome home page*/
-	.welcome {
+/*	.welcome {
 		background-image: url("/images/background_photo.jpg");
 		opacity: 0.8
 		text-align: center;
 		vertical-align: middle;
 		background-size: 100vw auto;
 		z-index: -1;
-	}
+	} 
 
 	h1.welcome {
 		margin-top: 0;
@@ -215,7 +217,7 @@ html, body {
 		font-size: 3em;
 		text-align: center;
 		background-color: blue;
-	}
+	} */
 
 	.welcome-box-blue {
 		background-color: lightblue;
@@ -316,8 +318,8 @@ h2.post, h3.post {
 	margin-left: 20vw;
 }
 
-/*about me page*/
-	/*pictures*/
+/*about me page
+	/*pictures
 		.column_about {
  			float: left;
   			width: 20%;
@@ -330,7 +332,7 @@ h2.post, h3.post {
   			display: table;
 		}
 	
-	/*text*/
+	/*text
 		h1.about {
 			margin-left: 5vw;
 			font-size: 1.7em;
@@ -342,4 +344,5 @@ h2.post, h3.post {
 			margin-left: 5vw;
 			font-family: Verdana, Geneva, sans-serif;
 		}
+*/
 
