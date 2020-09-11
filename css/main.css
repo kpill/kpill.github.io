@@ -232,7 +232,7 @@ html, body {
 	}
 
 	.yellow-box {
-		background-color: rgb(255,255,153);
+		background-color: yellow;
 		/*width: 500px;
 		height: 100px;*/
 		padding: 5px;
