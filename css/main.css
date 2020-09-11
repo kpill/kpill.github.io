@@ -205,8 +205,8 @@ html, body {
 		font-family: Arial, Helvetica, sans-serif;
 		color: white;
 		font-weight: bold;
-		padding-top: 42vw;
-		padding-bottom: 14vw;
+		padding-top: 14vw;
+		padding-bottom: 42vw;
 		font-size: 3em;
 		text-align: center;
 	}
