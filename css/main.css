@@ -94,24 +94,24 @@ html, body {
 
 		.fa-linkedin {
 			padding: 10px;
- 			background: rgb(230, 204, 179);
-  			color: black;
+ 			background: saddleBrown;
+  			color: white;
 			vertical-align: middle;
 			transform: translate(0%, -30%);
 		}
 	
 		.fa-github {
 			padding: 10px;
-			background: rgb(230, 204, 179);
-			color: black;
+			background: saddleBrown;
+			color: white;
 			vertical-align: middle;
 			transform: translate(0%, -30%);
 		}
 
 		.fa-instagram {
 			padding: 10px;
-			background: rgb(230, 204, 179);
-			color: black;
+			background: saddleBrown;
+			color: white;
 			vertical-align: middle;
 			transform: translate(0%, -30%);
 		}
