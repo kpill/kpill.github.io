@@ -224,6 +224,11 @@ html, body {
 		width: 100vw;
 	}
 
+	.yellow-box {
+		background-color: yellow;
+		padding: 5px;
+	}
+
 /*blog post list*/
 	ul.posts { 
    		/* margin: auto; */
