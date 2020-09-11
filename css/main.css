@@ -211,6 +211,11 @@ html, body {
 		text-align: center;
 	}
 
+	.welcome-box {
+		background-color: lightblue;
+		padding: 50px;
+	}
+
 /*blog post list*/
 	ul.posts { 
    		/* margin: auto; */
