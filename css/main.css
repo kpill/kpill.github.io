@@ -11,18 +11,18 @@ html, body {
 
 /*top bar*/
 	/*title*/
-	/*	header {
+		header {
 			position: relative;
 			overflow: hidden;
 			color: Black;
 			background-color: white;
 			margin: 0;
 			z-index: 1;
-		} */
+		}
 
-	/*	h1.header {
+		h1.header {
 			margin-left: 5px;
-		} */
+		} 
 
 		a.home {
 			color: saddleBrown;
