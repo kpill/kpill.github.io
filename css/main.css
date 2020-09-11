@@ -29,13 +29,13 @@ html, body {
 			text-decoration: none;
 			float: none;
   			position: absolute;
-  			/*top: 50%;
+  			top: 50%;
   			left: 35%;
-  			transform: translate(-35%, -50%);*/
+  			transform: translate(-35%, -50%);
 			vertical-align: middle;
 		}
 		a.home:hover, a.home:active {
-			color: Black;
+			color: saddleBrown;
 			text-decoration: none;
 		}
 	/*dropdown menu*/
