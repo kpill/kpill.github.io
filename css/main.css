@@ -30,8 +30,8 @@ html, body {
 			float: none;
   			position: absolute;
   			top: 50%;
-  			left: 35%;
-  			transform: translate(-35%, -50%);
+  			left: 5%;
+  			transform: translate(-5%, -50%);
 			vertical-align: middle;
 		}
 		a.home:hover, a.home:active {
