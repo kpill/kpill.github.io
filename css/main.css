@@ -198,7 +198,7 @@ html, body {
 
 
 /*welcome home page*/
-/*	.welcome {
+	.welcome {
 		background-image: url("/images/background_photo.jpg");
 		opacity: 0.8
 		text-align: center;
@@ -217,7 +217,7 @@ html, body {
 		font-size: 3em;
 		text-align: center;
 		background-color: blue;
-	} */
+	} 
 
 	.welcome-box-blue {
 		background-color: lightblue;
