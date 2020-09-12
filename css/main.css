@@ -289,6 +289,7 @@ html, body {
 		clear:both;
 		background-color: floralWhite;
 		padding-top: 20px;
+		padding-bottom: 20px;
 	}
 
 	.white-box {
@@ -301,6 +302,24 @@ html, body {
 		text-align: center;
 		padding: 10px;
 		background-color: saddleBrown;
+	}
+
+/*contact*/
+	.contact {
+		background-color: white;
+		padding-top: 20px;
+	}
+
+	.blue-box {
+		margin: auto;
+		font-family: Geneva, Tahoma, Verdana, sans-serif;
+		font-weight: bold;
+		font-size: 2em;
+		color: gold;
+		width: 200px;
+		text-align: center;
+		padding: 10px;
+		background-color: lightblue;
 	}
 
 /*blog post list*/
