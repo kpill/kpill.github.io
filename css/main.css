@@ -322,6 +322,12 @@ html, body {
 		background-color: lightblue;
 	}
 
+	input[type=text] {
+		margin: auto;
+		padding: 12px 12px;
+		box-sizing: border-box;
+	}
+
 /*blog post list*/
 	ul.posts { 
    		/* margin: auto; */
