@@ -255,7 +255,7 @@ html, body {
 		padding: 5px;
 		width: 600px;
 		float: right;
-		transform: translate(100%, 70%);
+		transform: translate(-200%, 70%);
 	}
 
 	h3.about-text {
