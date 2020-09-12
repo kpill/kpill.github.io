@@ -288,6 +288,7 @@ html, body {
 	.resume {
 		clear:both;
 		background-color: floralWhite;
+		padding-top: 20px;
 	}
 
 	.white-box {
@@ -299,7 +300,6 @@ html, body {
 		width: 200px;
 		text-align: center;
 		padding: 10px;
-		margin-top: 20px;
 	}
 
 /*blog post list*/
