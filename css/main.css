@@ -261,7 +261,8 @@ html, body {
 	.blue-text-box {
 		background-color: lightblue;
 		padding: 5px;
-		width: 500px;
+		margin-left: 600px;
+		
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 		color: saddleBrown;
 	}
