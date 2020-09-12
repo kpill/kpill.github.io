@@ -275,7 +275,9 @@ html, body {
 	}
 
 	a.welcome {
-		color: black;
+		color: saddleBrown;
+		font-weight: bold;
+		background-color:lightblue;
 		text-decoration: none;
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 	}
