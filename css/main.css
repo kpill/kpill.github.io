@@ -245,7 +245,6 @@ html, body {
 		display: inline;
 		/*height: 100px;*/
 		padding: 5px;
-		transform: translate(-120%, 50%);*/
 		
 	}
 
@@ -260,9 +259,8 @@ html, body {
 	.blue-text-box {
 		background-color: lightblue;
 		padding: 5px;
-		width: 600px;
+		width: 500px;
 		display: inline;
-		transform: translate(-200%, 70%);
 	}
 
 	h3.about-text {
