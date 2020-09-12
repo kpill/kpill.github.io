@@ -242,7 +242,7 @@ html, body {
 		background-color: gold;
 		text-align: center;
 		width: 500px;
-		float: right;
+		display: inline;
 		/*height: 100px;*/
 		padding: 5px;
 		transform: translate(-120%, 50%);*/
@@ -261,7 +261,7 @@ html, body {
 		background-color: lightblue;
 		padding: 5px;
 		width: 600px;
-		float: right;
+		display: inline;
 		transform: translate(-200%, 70%);
 	}
 
