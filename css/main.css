@@ -234,11 +234,11 @@ html, body {
 	.yellow-box {
 		background-color: gold;
 		text-align: center;
-		width: 500px;
+		width: 600px;
 		float: right;
 		/*height: 100px;*/
 		padding: 5px;
-		transform: translate(-150%, 50%);*/
+		transform: translate(-110%, 50%);*/
 		
 	}
 
@@ -255,7 +255,7 @@ html, body {
 		padding: 5px;
 		width: 500px;
 		height: 300px;
-		transform: translate(100%, 100%);
+		transform: translate(100%, 70%);
 	}
 
 	h3.about-text {
