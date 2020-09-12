@@ -231,10 +231,10 @@ html, body {
 		width: 100vw;
 	}
 
-	.brown-box {
-		background-color: saddleBrown;
+	.yellow-box {
+		background-color: gold;
 		text-align: center;
-		width: 450px;
+		width: 500px;
 		float: right;
 		/*height: 100px;*/
 		padding: 5px;
@@ -246,16 +246,16 @@ html, body {
 	h1.welcome-text {
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 		font-size: 2.5em;
-		color: gold;
+		color: saddleBrown;
 		/*transform: translate(75%, 50%);*/
 	}
 
-	.yellow-text-box {
-		background-color: gold;
+	.blue-text-box {
+		background-color: lightblue;
 		padding: 5px;
 		width: 500px;
 		height: 300px;
-		/*transform: translate(75%, 50%);*/
+		transform: translate(100%, -100%);
 	}
 
 	h3.about-text {
@@ -265,7 +265,7 @@ html, body {
 
 	a.welcome {
 		color: black;
-		background-color: gold;
+		background-color: lightblue;
 		text-decoration: none;
 	}
 
