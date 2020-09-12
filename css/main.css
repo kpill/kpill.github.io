@@ -242,12 +242,14 @@ html, body {
 		background-color: gold;
 		text-align: center;
 		width: 600px;
-		padding: 20px;
+		padding: 10px;
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 		font-size: 2em;
 		font-weight: bold;
-		color: saddleBrown;
+		color: black;
 		display: inline-block;
+		margin-top:60px;
+		margin-left:30px;
 	}
 
 
@@ -262,9 +264,9 @@ html, body {
 		background-color: lightblue;
 		padding: 5px;
 		margin-left: 600px;
-		
+		font-weight:bold;
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
-		color: saddleBrown;
+		color: black;
 	}
 
 	h3.about-text {
