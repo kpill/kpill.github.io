@@ -329,6 +329,17 @@ html, body {
 	}
 
 /*blog post list*/
+	.black-box {
+		margin: auto;
+		font-family: Geneva, Tahoma, Verdana, sans-serif;
+		font-weight: bold;
+		font-size: 2em;
+		color: lightblue;
+		width: 200px;
+		text-align: center;
+		padding: 10px;
+		background-color: black;
+	}
 	ul.posts { 
    		/* margin: auto; */
     		font-size: 1.5em;
@@ -339,7 +350,7 @@ html, body {
 	}
 
 	a.posts {
-		background-color: white;
+		background-color: floralWhite;
 		color: black;
 		height: 101px;
 		width: 100%;
