@@ -198,6 +198,12 @@ html, body {
 
 
 /*welcome home page*/
+	#wrapper {
+    		margin-left:auto;
+    		margin-right:auto;
+    		width:960px;
+	}
+
 	.welcome {
 		background-image: url("/images/background_photo.jpg");
 		opacity: 0.8
