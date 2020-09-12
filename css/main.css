@@ -262,9 +262,10 @@ html, body {
 
 	.blue-text-box {
 		background-color: lightblue;
-		padding: 5px;
+		padding: 20px;
 		margin-left: 600px;
 		margin-right: 100px;
+		margin-top: 20px;
 		font-weight:bold;
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 		color: black;
