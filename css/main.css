@@ -232,7 +232,7 @@ html, body {
 	}
 
 	.yellow-box {
-		background-color: food-lemon;
+		background-color: rgb(255, 255, 128);
 		width: 500px;
 		/*height: 100px;*/
 		padding: 10px;
