@@ -283,6 +283,10 @@ html, body {
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 	}
 
+/*resume*/
+	.resume {
+		clear:both;
+	}
 
 /*blog post list*/
 	ul.posts { 
