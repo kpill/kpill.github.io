@@ -24,7 +24,7 @@ and eager to learn, reach out to me at <a style="text-decoration: none; color:sa
 
 <div class="contact">
 	<div class="blue-box">Contact Me</div>
-	<form onsubmit="return false"></form>
+	<form method="post" action="contact.php">
 	<input type="text" placeholder="Enter your first name" id="firstName"/>
 	<br><br>
 	<input type="text" placeholder="Enter your last name" id="lastName"/>
@@ -35,8 +35,9 @@ and eager to learn, reach out to me at <a style="text-decoration: none; color:sa
 	<br>
 	<textarea id="message" rows="4"></textarea>
 	<br><br>
-	<button onclick="sendContact();">Submit</button>
+	<input type="submit">
 	<br><br><br>
+	</form>
 </div>
 <!--
 <div>
