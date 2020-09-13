@@ -330,6 +330,10 @@ html, body {
 		background-color: lightblue;
 	}
 
+	input {
+		width: 300px;
+	}
+
 /*blog post list*/
 	.black-box {
 		margin: auto;
