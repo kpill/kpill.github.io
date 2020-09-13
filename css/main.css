@@ -350,6 +350,16 @@ html, body {
 		padding: 10px;
 		background-color: black;
 	}
+
+	.blue-text-box {
+		background-color: lightblue;
+		padding: 20px;
+		margin: auto;
+		font-weight:bold;
+		font-family: Geneva, Tahoma, Verdana, sans-serif;
+		color: black;
+	}
+
 	ul.posts { 
    		/* margin: auto; */
     		font-size: 1.5em;
@@ -389,6 +399,7 @@ html, body {
 	}
 
 /*blog post*/
+
 img.post {
 	width: 60vw;
 	height: 40vw;
