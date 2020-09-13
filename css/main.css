@@ -40,47 +40,7 @@ html, body {
 			color: saddleBrown;
 			text-decoration: none;
 		}
-	/*dropdown menu */
-	/*	.menu {
-			position: relative;
-			background-color: white;
-			float: left;
-			padding-left: 5vw;
-			padding-right: 10vw;
-			vertical-align: middle;
-			margin: 0;
-			padding-top: 1.5vw;
-			padding-bottom: 1vw;
-			transform: translate(0%, 70%);
-			z-index: 2;
-		}
 
-		.dropdown {
-  			position: relative;
-  			display: inline-block;
-			overflow: visible;
-		}
-
-		.dropdown-content {
- 			display: none;
-  			position: absolute;
-  			background-color: DarkSeaGreen;
-  			min-width: 160px;
-  			box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-		}
-
-		.dropdown-content a {
- 			color: black;
-  			padding: 12px 16px;
-  			text-decoration: none;
-  			display: block;
-		}
-
-		.dropdown-content a:hover {background-color: MediumSeaGreen}
-
-		.dropdown:hover .dropdown-content {
-  			display: block;
-		} */
 	/*social icons*/
 		.social-icons {
 			float: right;
@@ -136,77 +96,8 @@ html, body {
 		color: rgb(169,169,169);
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 	}
-		
-	/*social icons
-		footer .social-icons {
-			float: left;
-		}
 
-		footer .fa-linkedin {
-			padding-left: 20px;
-			background: white;
-			color: #999;
-		}
-
-		footer .fa-github {
-			background: white;
-			color: #999;
-		}
-
-
-		footer .fa-instagram {
-			background: white;
-			color: #999;
-		} */
-	/*navigation
-		footer ul {
-    			font-family: Georgia, serif;
-			background-color: white;
-			box-shadow: 8px 0px 0px 0px rgba(0,0,0,0.2);
-			/*bottom: 50%;
-			left: 50%;
-			transform: translate(-50%, 50%);
-		}
-		
-		nav ul {
-    			font-family: "Arial Black", Gadget, sans-serif;
-			text-decoration: none;
-    			padding-top: 30px;
-			padding-bottom: 20px;
-   			margin: 0px;
-    			list-style-type: none;
-    			overflow: hidden;
-    			width: 100vw;
-		}
-
-		nav li, footer li {
-    			float: left;
-		}
-
-		a.nav {
-    			display: block;
-    			padding-left: 0px;
-			padding-right: 20px;
-			color: #999;
-			display:flex;
-		}
-
-		.topnav-centered {
-  			left: 50%;
-		}
-
-		a.footer {
-			text-decoration: none;
-			font-weight: bold;
-			color: #999;
-		}
-
-		a.footer:hover, a.footer:active {
-			text-decoration: none;
-		} */
-
-
-/*welcome home page*/
+/*welcome*/
 	#wrapper {
     		margin-left:auto;
     		margin-right:auto;
@@ -221,18 +112,6 @@ html, body {
 		background-size: 100vw auto;
 		z-index: -1;
 	} 
-
-	/*h1.welcome {
-		margin-top: 0;
-		font-family: Arial, Helvetica, sans-serif;
-		color: white;
-		font-weight: bold;
-		padding-top: 14vw;
-		padding-bottom: 42vw;
-		font-size: 3em;
-		text-align: center;
-		background-color: blue;
-	} */
 
 	.welcome-box-blue {
 		background-color: lightblue;
@@ -428,31 +307,4 @@ h2.post, h3.post {
 	font-size: 150%;
 }
 
-/*about me page
-	/*pictures
-		.column_about {
- 			float: left;
-  			width: 20%;
-  			padding: 0px;
-		}
-
-		.row_about::after {
- 			content: "";
-  			clear: both;
-  			display: table;
-		}
-	
-	/*text
-		h1.about {
-			margin-left: 5vw;
-			font-size: 1.7em;
-			color: saddleBrown;
-			font-family: "Arial Black", Gadget, sans-serif;
-		}
-
-		p.about {
-			margin-left: 5vw;
-			font-family: Verdana, Geneva, sans-serif;
-		}
-*/
 
