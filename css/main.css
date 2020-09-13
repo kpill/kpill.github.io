@@ -335,6 +335,7 @@ html, body {
 	}
 
 	textarea {
+		font-family: Arial, Helvetica, sans-serif;
 		width: 300px;
 	}
 
