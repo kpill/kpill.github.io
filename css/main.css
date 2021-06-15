@@ -125,22 +125,18 @@ html, body {
 		width: 100vw;
 	}
 	
-	@media screen and (max-width: 500px) {
-		.yellow-box {
-			background-color: gold;
-			text-align: center;
-			/*width: 500px;*/
-			width: 60%;
-			padding: 10px;
-			font-family: Geneva, Tahoma, Verdana, sans-serif;
-			font-size: 2em;
-			font-weight: bold;
-			color: black;
-			display: inline-block;
-			/*margin-top:60px;*/
-			/*margin-left:30px;*/
-			margin: auto;
-		}
+	.yellow-box {
+		background-color: gold;
+		text-align: center;
+		width: 500px;
+		padding: 10px;
+		font-family: Geneva, Tahoma, Verdana, sans-serif;
+		font-size: 2em;
+		font-weight: bold;
+		color: black;
+		display: inline-block;
+		margin-top:60px;
+		margin-left:30px;
 	}
 
 
