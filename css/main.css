@@ -25,8 +25,7 @@ html, body {
 		} 
 
 		a.home {
-			color: Black;
-			/*color: saddleBrown;*/
+			color: saddleBrown;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
@@ -131,7 +130,7 @@ html, body {
 			background-color: gold;
 			text-align: center;
 			/*width: 500px;*/
-			width: 90%;
+			width: 30%;
 			padding: 10px;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			font-size: 2em;
