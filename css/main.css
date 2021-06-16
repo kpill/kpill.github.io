@@ -25,8 +25,7 @@ html, body {
 		} 
 
 		a.home {
-			/*color: saddleBrown;*/
-			color: Black;
+			color: saddleBrown;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
@@ -118,12 +117,14 @@ html, body {
 		background-color: lightblue;
 		height: 50px;
 		width: 100vw;
+		margin-left: 30px;
 	}
 
 	.welcome-box-black {
 		background-color: black;
 		height: 50px;
 		width: 100vw;
+		margin-left: 30px;
 	}
 	
 	.yellow-box {
