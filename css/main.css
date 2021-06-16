@@ -25,7 +25,8 @@ html, body {
 		} 
 
 		a.home {
-			color: saddleBrown;
+			/*color: saddleBrown;*/
+			color: Black;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
@@ -128,7 +129,7 @@ html, body {
 	.yellow-box {
 		background-color: gold;
 		text-align: center;
-		width: 500px;
+		width: 400px;
 		padding: 10px;
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 		font-size: 2em;
