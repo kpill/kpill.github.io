@@ -25,7 +25,7 @@ html, body {
 		} 
 
 		a.home {
-			color: Red;
+			color: Black;
 			/*color: saddleBrown;*/
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
@@ -151,7 +151,7 @@ html, body {
 	.blue-text-box {
 		background-color: lightblue;
 		padding: 20px;
-		margin-left: 400px;
+		margin-left: 500px;
 		margin-right: 100px;
 		margin-top: 20px;
 		font-weight:bold;
