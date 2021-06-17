@@ -147,6 +147,12 @@ html, body {
 		/*transform: translate(75%, 50%);*/
 	}
 
+	@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+		h1.welcome-text {
+			width: 90%;
+		}
+	}
+
 	.blue-text-box {
 		background-color: lightblue;
 		padding: 20px;
