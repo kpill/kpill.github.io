@@ -25,8 +25,7 @@ html, body {
 		} 
 
 		a.home {
-			color: Black;
-			/*color: saddleBrown;*/
+			color: saddleBrown;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
