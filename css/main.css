@@ -165,7 +165,7 @@ html, body {
 	}
 
 	/*@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
-		.blue-text-box {
+		/*.blue-text-box {
 			margin-left: 10%;
 			margin-right: 10%;
 		}
