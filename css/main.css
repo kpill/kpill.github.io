@@ -25,7 +25,7 @@ html, body {
 		} 
 
 		a.home {
-			color: saddleBrown;
+			color: Black;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
@@ -163,13 +163,6 @@ html, body {
 		font-family: Geneva, Tahoma, Verdana, sans-serif;
 		color: black;
 	}
-
-	/*@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
-		/*.blue-text-box {
-			margin-left: 10%;
-			margin-right: 10%;
-		}
-	}/*
 
 	h3.about-text {
 		font-family: Arial, Helvetica, sans-serif;
