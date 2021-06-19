@@ -25,7 +25,7 @@ html, body {
 		} 
 
 		a.home {
-			color: Black;
+			color: saddleBrown;
 			font-family: Geneva, Tahoma, Verdana, sans-serif;
 			text-decoration: none;
 			float: none;
@@ -147,11 +147,11 @@ html, body {
 		/*transform: translate(75%, 50%);*/
 	}
 
-	@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
-		h1.welcome-text {
+	/*@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+		/*h1.welcome-text {
 			width: 90%;
 		}
-	}
+	}*/
 
 	.blue-text-box {
 		background-color: lightblue;
@@ -166,7 +166,8 @@ html, body {
 
 	@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
 		.blue-text-box {
-			width: 90%;
+			margin-left: 90%;
+			margin-right: 90%;
 		}
 	}
 
