@@ -164,12 +164,12 @@ html, body {
 		color: black;
 	}
 
-	@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+	/*@media (min-width:320px)  { /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
 		.blue-text-box {
-			margin-left: 90%;
-			margin-right: 90%;
+			margin-left: 10%;
+			margin-right: 10%;
 		}
-	}
+	}/*
 
 	h3.about-text {
 		font-family: Arial, Helvetica, sans-serif;
