@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Kamala Pillai Launches Site"
+title: "The 20 Types of Friends Everyone Should Have"
 subtitle: "My first post"
 tag: "personal"
 picture_link: <img class="link" src="/images/bay_bridge.jpg" alt="Bay Bridge"/>
 picture_post: <img class="post" src="/images/bay_bridge.jpg" alt="Bay Bridge"/>
-date: 2018-11-25
+date: 2021-07-24
 ---
 
 If you have 1–3 friends that cover all of these, you’re set. I’m a big proponent of quality over quantity. Without further ado, here are the 20 types of friends everyone should have.
