@@ -12,7 +12,7 @@ If you have 1–3 friends that cover all of these, you’re set. I’m a big pro
 
 ### 1 — The friend that makes you laugh
 
-![The Muppets Kermit plush toy on gray sofa](/images/marcela-rogante-ohbfKsIEbJQ-unsplash.jpg)
+![The Muppets Kermit plush toy on gray sofa](/images/marcela-rogante-ohbfKsIEbJQ-unsplash.jpg){: height="40vw" width="60vw"}
 They say laughter is the best medicine. In the wise words of the fortune cookie I got with my takeout last week: “The difference between a comedy and a drama is the perspective.” Isn’t that such a cool quote? Sometimes you gotta find the humor in life, and a friend that helps you do that is invaluable. If you are that friend, keep doing what you do. We appreciate you.
 
 ### 2 — The friend that lets you cry
