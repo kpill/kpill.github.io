@@ -16,7 +16,7 @@ They say laughter is the best medicine. In the wise words of the fortune cookie 
 
 ### 2 — The friend that lets you cry
 
-Photo by Külli Kittus on Unsplash
+![a woman rests her head on another person's shoulder](/images/types-of-friends/kulli-kittus-KQfxVDHGCUg-unsplash.jpg)
 There’s a stigma associated with crying in our society. But studies show that crying actually helps relieve stress. In general it’s quite healthy to acknowledge our negative feelings, which then makes it easier to ultimately let them go. For that reason, it’s liberating to have a friend who will let you vocalize your feelings of distress and lend a shoulder if necessary. They don’t see you as weak, they see you as human.
 
 ### 3 — The friend that likes to talk about the state of the world
