@@ -29,13 +29,14 @@ But when it’s 10 AM on a Monday and you already have to deal with the 99 probl
 
 ### 4 — The friend that likes to talk about the state of the mind
 
-![](/images/types-of-friends/screen-shot-2015-06-22-at-7-00-43-pm.png){: height="500vw" width="600vw"}
+![](/images/types-of-friends/screen-shot-2015-06-22-at-7-00-43-pm.png){: height="500vw" width="700vw"}
 
 Maybe this one is just me. I love thinking about human psychology. Lately, more and more people have been talking about mental health, and it’s a step in the right direction. I think the best thing a person can do for their mental health is go inside their brain, like deep inside, and dissect the thoughts and beliefs they have about their life and their self. (Side note: I elaborate more on this in some of my other blog posts — definitely check them out if you’re interested.) If you have a friend who encourages you to look inwards, you’re on the path to some fascinating self-discovery.
 
 ### 5 — The friend that holds you accountable
 
-Photo by Boxed Water Is Better on Unsplash
+![woman in gray sports bra and gray leggings doing push up](/images/types-of-friends/boxed-water-is-better-JpWcneSvhDY-unsplash.jpg){: height="600vw" width="500vw"}
+
 There are multiple friends who fit this role. Like your gym buddy, for example. You can skip the gym and let yourself down. People do that all the time. But you definitely can’t skip the gym and let your gym buddy down. In a broader sense, I’m talking about the friend that motivates you to do the damn thing. The friend that asks if you’re making progress on the project you said you had to work on. The friend that encourages you to go have the tough conversation you’ve been avoiding. The friend that intervenes when you have devoted an inordinate number of hours to [insert video game you’re addicted to].
 
 ### 6 — The friend that makes questionable decisions
