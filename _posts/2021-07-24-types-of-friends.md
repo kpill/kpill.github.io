@@ -22,7 +22,8 @@ There’s a stigma associated with crying in our society. But studies show that 
 
 ### 3 — The friend that likes to talk about the state of the world
 
-Photo by Mattias Diesel on Unsplash
+![person reading while holding white ceramic mug](/images/types-of-friends/mattias-diesel-3M2cqBRQmjA-unsplash.jpg){: height="500vw" width="600vw"}
+
 A.K.A. the friend that keeps you “woke”. As citizens of the world, it’s important to keep ourselves informed on what’s going on. Because real progress is made when enough people care about the issues. And real bonds are formed when we make the effort to educate ourselves on the plight of other humans.
 But when it’s 10 AM on a Monday and you already have to deal with the 99 problems in your immediate life, it can be tempting to put the state of the world on the back burner. Which is why you need the friend who loves to talk about their opinions on [insert major current event you probably should be following]. Better yet — have multiple friends who offer different perspectives, some of which may challenge your own.
 
