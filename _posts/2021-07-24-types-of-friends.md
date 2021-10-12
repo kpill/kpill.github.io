@@ -41,7 +41,9 @@ There are multiple friends who fit this role. Like your gym buddy, for example. 
 
 ### 6 — The friend that makes questionable decisions
 
-Photo by NeONBRAND on Unsplash
+
+![red Wrong Way signage on road](/images/types-of-friends/neonbrand--Cmz06-0btw-unsplash.jpg){: height="500vw" width="600vw"}
+
 This is your wild friend. This friend is the reason you have a tattoo on your [fill in the blank]. This friend is the reason you had to frantically call an Uber at 1 AM because you were lost in the middle of nowhere (shaking my head at myself). This friend worries you sometimes, but let’s be real, they’re the reason you have some incredible stories to tell in the future.
 
 ### 7 — The friend you can talk to for hours
