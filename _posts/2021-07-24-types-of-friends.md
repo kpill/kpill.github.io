@@ -87,17 +87,21 @@ Ah yes, the James Arthur friend. So this one is more symbolic, meant to be taken
 
 ### 13 — The friend that shares your taste in music
 
-Photo by C D-X on Unsplash
+![](/images/types-of-friends/c-d-x-PDX_a_82obo-unsplash.jpg){: height="500vw" width="600vw"}
+
 Two words. Road. Trip. Or maybe it’s Rave. Slave. Or it’s Broadway. Musical. Or maybe even Wind. Ensemble. I don’t know. Road trip seems pretty universal.
 Regardless of what type of music you like, it’s so much better when you have a person to share it with. Because they actually appreciate art. They have taste. Nobody else gets you. Queue lofi hip hop beats to feel angsty to.
 
 ### 14 — The friend that shares your taste in movies/TV/sports
 
+![](/images/types-of-friends/1_6T01dVVxOvRiclzO3bMhDg.jpeg){: height="500vw" width="600vw"}
+
 Because you guys bond over yelling at the TV. These are the people you’re watching the Superbowl with. Or you guys are binge watching The Bachelor in your pajamas. Or you’re meeting up during the holidays to watch Hallmark movies and drink spiked hot chocolate. That last one usually leads to the most yelling, in my experience.
 
 ### 15 — The friend that pushes you outside of your comfort zone
 
-Photo by Hatham on Unsplash
+![](/images/types-of-friends/0_2IBrEdvG1cywcI0d.jfif){: height="500vw" width="600vw"}
+
 There’s a song called “The River” by Garth Brooks. And at one part he sings:
 So don’t sit up on the shoreline.
 And say you’re satisfied.
@@ -108,30 +112,35 @@ This friend inspires you to do the thing that would either make you ridiculously
 
 ### 16 — The friend that makes you feel comfy
 
-Photo by Anastasiia Chepinska on Unsplash
+![](/images/types-of-friends/anastasiia-chepinska-mB__zsotOqY-unsplash.jpg){: height="500vw" width="600vw"}
+
 This friend is extremely valuable. They got you with the chicken soup and Gatorade when you’re sick. They will bake cupcakes on your birthday. They give the best hugs. In a zombie apocalypse you would probably hide out at their place because they make you feel safe. Chances are this friend is your mom.
 
 ### 17 — The friend that boosts your self-esteem
 
-Photo by Alexis Fauvet on Unsplash
+![](/images/types-of-friends/alexis-fauvet-xw4pDqavzAs-unsplash.jpg){: height="500vw" width="600vw"}
+
 They like your style. They like your vibe. They laugh at your jokes. They love your cooking. And they will make sure you know it. These friends make you feel good in your own skin. They will shower you with love reacts and empowering comments on Facebook and Instagram. And LinkedIn, for good measure. When you’re together in person, you can be yourself around them. They like you, for you.
 Random tangent: Something I’ve been interested in recently is the self-esteem vs. the ego. Everyone has an ego at some level, but it doesn’t really serve us. It’s just this random addition that comes with the package of being human. When we learn to ignore our ego, we become lighter and more free. It allows us to become the best version of ourselves. The good thing is, we don’t need to rely as much on our ego when we have a high self-esteem. So a good way to drop the ego is to focus on increasing our self-esteem. More on this in my other posts.
 
 ### 18 — The friend that is savage AF
 
-Photo by alex lauzon on Unsplash
+![](/images/types-of-friends/alex-lauzon-dO9zozFUrTg-unsplash.jpg){: height="500vw" width="600vw"}
+
 This is the friend that makes fun of you. And they are laughing at you, not with you. But it thickens your skin. Keeps you alert. Keeps you humble. And you’ll get your revenge. You’re just waiting for the proper moment. TO STRIKE.
 The best part about this friend? They got your back if there’s anyone out there who’s actually trying to hurt you. Together, you guys are not ones to be messed with.
 
 ### 19 — The friend who inspires you
 
-Photo by Clyde RS on Unsplash
+![](/images/types-of-friends/clyde-rs-4XbZCfU2Uoo-unsplash.jpg){: height="500vw" width="600vw"}
+
 You are a person with potential beyond what you can even imagine. Why is it that so many of us don’t realize our full potential? It’s because of the invisible limits around us. The first limit is our mental limit. A.K.A. the voice in your head that has already decided what you’re good at and what you’re not good at. The second limit is the societal limit. That’s the one that forces you to fall in line with what everyone else is doing. You do what society says you’re supposed to be doing.
 But when someone breaks away from those limits, they become an inspiration for the rest of us. You need a friend who will take things to the next level. They don’t care what people say they can/can’t/should/shouldn’t do. When you have a friend who sets new trends, blazes new trails, and breaks the status quo, they’ll inspire you to do something amazing with your potential. And then you inspire someone else. And it’s like, a chain of inspiration. And that’s how humans become more and more advanced. Thank you for coming to my TED talk.
 
 ### 20 — And finally, the friend that grounds you
 
-Photo by Wil Stewart on Unsplash
+![](/images/types-of-friends/wil-stewart-UErWoQEoMrc-unsplash.jpg){: height="500vw" width="600vw"}
+
 Because we’re all just little specs of consciousness moving and grooving through the cosmos. Right? Life truly is a crazy adventure filled with good things and bad things. And sometimes amidst all of the excitement and chaos, you need a friend you can call, meet up with, and grab a beer. Because on some days you don’t need to take life too seriously. On some days you can let it all go.
 
 And there you have it! These are the 20 types of friends that I believe everyone should have. If you noticed I had a little pattern going with this list, it’s because I like the idea of surrounding yourself with people who balance each other out. I’m kind of like Thanos in that I want everything to be perfectly balanced.
