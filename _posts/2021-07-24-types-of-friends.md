@@ -53,31 +53,36 @@ I’m talking about sitting in your car in the parking lot of an In-N-Out, watch
 
 ### 8 — The friend you never talk to
 
-Photo by Aaron Burden on Unsplash
+![](/images/types-of-friends/aaron-burden-b9drVB7xIOI-unsplash.jpg){: height="600vw" width="500vw"}
+
 You rarely talk to this friend, but when you do talk, you can pick up right where you left off. There’s something special about a friendship that you don’t have to put any work into. You can be living on opposite sides of the country. The last time you talked to them was a year ago. But they’re still someone you care about, and you know they care about you. Next time they’re in town, you guys can have a hearty catch-up session over lunch. And it feels like no time has passed at all.
 
 ### 9 — The friend that brings out the nerd in you
 
-Photo by Markus Spiske on Unsplash
+![](/images/types-of-friends/markus-spiske-8OyKWQgBsKQ-unsplash.jpg){: height="500vw" width="600vw"}
+
 This is an important one. Everyone is capable of being passionate. Everyone has the potential to succeed. Everyone. Sometimes all we need is a friend to motivate us to actually discover that potential. A friend who values education and critical thinking will help you develop skills that you never would have otherwise pushed yourself to learn.
 Random tangent: The portrayal of nerds in movies and TV has always interested me. When I was growing up (early 2000’s) TV nerds fit into three categories: the dude with thick-rimmed glasses and suspenders who was there for goofy comedic relief, the smart athletic prep kid who is also kinda evil, and the intelligent shy girl protagonist who gets bullied initially but wins over Kyle/Peter/Damien in the end. I always thought these were such random qualities to be associated with someone who was good at, say, geography. Anyway.
 
 ### 10 — The friend that brings out the child in you
 
-Photo by MI PHAM on Unsplash
+![](/images/types-of-friends/mi-pham-FtZL0r4DZYk-unsplash.jpg){: height="500vw" width="600vw"}
+
 “We don’t stop playing because we grow old, we grow old because we stop playing.” -George Bernard Shaw
 Do you remember the time in your life when everyone around you started acting older than they were? You’re walking around being a kid and all of a sudden everyone is so ~mature~. And then for the next ten to fifteen years you’re all reveling in your ever-growing maturity, eager to share your abundance of wisdom with someone who’s like, two years younger than you. And then before you know it, everyone wishes they were a kid again.
 I like the people who remain a child their whole life. Because those people hold on to something that many others lose sight of: how to be carefree. So if you have this friend, learn the ways of the adult-child.
 
 ### 11- The friend that promotes healthy living
 
-Photo by Ella Olsson on Unsplash
+![](/images/types-of-friends/ella-olsson-KPDbRyFOTnE-unsplash.jpg){: height="500vw" width="600vw"}
+
 Don’t text them after 10 PM because they will be asleep. And they’re gonna wake up at 5:30 and meditate → protein smoothie → gym. They bus/carpool/bike to work and they stand at their standing desk with their trail mix/grapes/multi-grain paleo crackers. Chances are they’re into feng shui.
 They might actually be onto something. Few of us prioritize our own mental and physical health, but when we do, it makes it easier to finish everything else. So take a page out of your friend’s book. Put your phone down and go for a walk. After you finish reading this.
 
 ### 12 — The friend that holds your hair back when you’re throwing up
 
-Photo by Mathilde Langevin on Unsplash
+![](/images/types-of-friends/0_zkR1n_tWX65DDhXe.jfif){: height="600vw" width="500vw"}
+
 Ah yes, the James Arthur friend. So this one is more symbolic, meant to be taken figuratively. Unless you’re a sophomore in college, I see you. This is the friend you call when you messed up. You wasted three days procrastinating. You said something insensitive. You let down your coworker. You texted your ex. You drank too much and now you need someone to hold your hair back in your moment of plummeting dignity. Look, we all make mistakes. So we all need a friend who will help us navigate our way out of our self-inflicted shit, with absolutely no judgement.
 
 ### 13 — The friend that shares your taste in music
