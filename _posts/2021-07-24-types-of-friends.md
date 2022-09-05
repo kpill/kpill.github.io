@@ -47,7 +47,7 @@ This is your wild friend. This friend is the reason you have a tattoo on your [f
 
 ### 7 — The friend you can talk to for hours
 
-(/images/types-of-friends/priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg){: height="500vw" width="600vw"}
+![](/images/types-of-friends/priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg){: height="500vw" width="600vw"}
 
 I’m talking about sitting in your car in the parking lot of an In-N-Out, watching the sunset, and just talking about life. Many of my worries about the past, present, and future have been quelled by some good parked-car conversation. Many of the ideas bursting in my head have been inspired by listening to people talk about their experiences, their opinions, and their fascinating insights about the world.
 
