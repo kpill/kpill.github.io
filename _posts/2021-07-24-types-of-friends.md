@@ -41,14 +41,14 @@ There are multiple friends who fit this role. Like your gym buddy, for example. 
 
 ### 6 — The friend that makes questionable decisions
 
-
 ![red Wrong Way signage on road](/images/types-of-friends/neonbrand--Cmz06-0btw-unsplash.jpg){: height="500vw" width="600vw"}
 
 This is your wild friend. This friend is the reason you have a tattoo on your [fill in the blank]. This friend is the reason you had to frantically call an Uber at 1 AM because you were lost in the middle of nowhere (shaking my head at myself). This friend worries you sometimes, but let’s be real, they’re the reason you have some incredible stories to tell in the future.
 
 ### 7 — The friend you can talk to for hours
 
-Photo by Priscilla Du Preez on Unsplash
+(/images/types-of-friends/priscilla-du-preez-K8XYGbw4Ahg-unsplash.jpg){: height="500vw" width="600vw"}
+
 I’m talking about sitting in your car in the parking lot of an In-N-Out, watching the sunset, and just talking about life. Many of my worries about the past, present, and future have been quelled by some good parked-car conversation. Many of the ideas bursting in my head have been inspired by listening to people talk about their experiences, their opinions, and their fascinating insights about the world.
 
 ### 8 — The friend you never talk to
