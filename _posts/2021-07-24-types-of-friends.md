@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The 20 Types of Friends Everyone Should Have"
-picture_link: <img class="link" src="/images/types-of-friends/bay_bridge.jpg" alt="Bay Bridge"/>
-picture_post: <img class="post" src="/images/types-of-friends/bay_bridge.jpg" alt="Bay Bridge"/>
+picture_link: <img class="link" src="/images/types-of-friends/chang-duong-Sj0iMtq_Z4w-unsplash.jpg" alt="Friends"/>
+picture_post: <img class="post" src="/images/types-of-friends/chang-duong-Sj0iMtq_Z4w-unsplash.jpg" alt="Friends"/>
 date: 2021-07-24
 ---
 
